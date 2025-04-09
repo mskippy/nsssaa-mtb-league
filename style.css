@@ -79,4 +79,9 @@ body {
   .result-table tbody tr:nth-child(even) {
     background-color: #f8f9fa;
   }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
   
