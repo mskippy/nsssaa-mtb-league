@@ -1,0 +1,78 @@
+{
+  "teams": {
+    "Junior Boys": [
+      {
+        "name": "Team Alpha",
+        "points": 320
+      },
+      {
+        "name": "Team Beta",
+        "points": 280
+      },
+      {
+        "name": "Team Gamma",
+        "points": 260
+      }
+    ],
+    "Junior Girls": [
+      {
+        "name": "Team Phoenix",
+        "points": 300
+      },
+      {
+        "name": "Team Vortex",
+        "points": 270
+      },
+      {
+        "name": "Team Nova",
+        "points": 250
+      }
+    ]
+  },
+  "riders": {
+    "Junior Boys": [
+      {
+        "name": "Jake Martin",
+        "points": 120
+      },
+      {
+        "name": "Leo Tan",
+        "points": 110
+      },
+      {
+        "name": "Chris Dale",
+        "points": 100
+      },
+      {
+        "name": "Ali Nguyen",
+        "points": 95
+      },
+      {
+        "name": "Miles Hart",
+        "points": 90
+      }
+    ],
+    "Junior Girls": [
+      {
+        "name": "Ella Rose",
+        "points": 130
+      },
+      {
+        "name": "Maya Lin",
+        "points": 125
+      },
+      {
+        "name": "Zara Quinn",
+        "points": 115
+      },
+      {
+        "name": "Nina Clarke",
+        "points": 110
+      },
+      {
+        "name": "Penny Shaw",
+        "points": 105
+      }
+    ]
+  }
+}
