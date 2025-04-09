@@ -18,7 +18,8 @@ fetch('data/results.json')
             const div = document.createElement('div');
             div.classList.add('card');
             div.innerHTML = `<h3>${division}</h3><ol>${
-                data.riders[division].map(rider => `<li>${rider.name} (${rider.points} pts)</li>`).join('')
+                data.riders[division].map(rider => `<li>${rider.name} (${rider.school}) – ${rider.points} pts</li>`).join('')
+
             }</ol>`;
             riderDiv.appendChild(div);
         }
