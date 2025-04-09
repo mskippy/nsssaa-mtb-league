@@ -10,8 +10,8 @@
         "points": 1193
       },
       {
-        "name": "Seycove",
-        "points": 739
+        "name": "Argyle",
+        "points": 837
       }
     ],
     "Bant/Juv Girls": [
@@ -45,15 +45,15 @@
     "Jr/Sr Girls": [
       {
         "name": "Pemberton",
-        "points": 1241
-      },
-      {
-        "name": "Carson",
-        "points": 361
+        "points": 1410
       },
       {
         "name": "Argyle",
-        "points": 0
+        "points": 790
+      },
+      {
+        "name": "Whistler",
+        "points": 530
       }
     ],
     "Juv Boys": [
@@ -66,8 +66,22 @@
         "points": 880
       },
       {
+        "name": "STA",
+        "points": 810
+      }
+    ],
+    "Sr Boys": [
+      {
+        "name": "Argyle",
+        "points": 1217
+      },
+      {
         "name": "Pemberton",
-        "points": 804
+        "points": 1150
+      },
+      {
+        "name": "Howe Sound",
+        "points": 883
       }
     ]
   },
