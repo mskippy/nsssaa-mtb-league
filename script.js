@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const teamDiv = document.getElementById('team-results');
         const riderDiv = document.getElementById('rider-results');
   
-        // Rider display order + labels
+        // Rider display labels mapped to JSON keys
         const riderDivisionMap = {
           "Sr Boys (Gr 11/12)": "Sr Boys",
           "Sr Girls (Gr 11/12)": "Sr Girls",
@@ -17,28 +17,28 @@ document.addEventListener("DOMContentLoaded", function () {
           "Bant Girls (Gr 8)": "Bant Girls"
         };
   
-        // Team display order (including combined divisions)
+        // Team display order (no mapping, use exact keys)
         const teamDivisionOrder = [
-          "Sr Boys (Gr 11/12)",
-          "Jr Boys (Gr 10)",
-          "Juv Boys (Gr 9)",
-          "Bant Boys (Gr 8)",
+          "Sr Boys",
+          "Jr Boys",
           "Jr/Sr Girls",
-          "Bant/Juv Girls"
+          "Juv/Bant Girls",
+          "Juv Boys",
+          "Bant Boys"
         ];
   
-        // Render teams
-        teamDivisionOrder.forEach(label => {
-          if (data.teams && data.teams[label]) {
+        // Render teams (flat order, no labels)
+        teamDivisionOrder.forEach(division => {
+          if (data.teams && data.teams[division]) {
             const div = document.createElement('div');
             div.classList.add('card');
-            div.innerHTML = `<h3>${label}</h3>`;
+            div.innerHTML = `<h3>${division}</h3>`;
   
             let teamTable = `<table class="result-table">
               <thead><tr><th>Rank</th><th>Team</th><th>Points</th></tr></thead>
               <tbody>`;
   
-            data.teams[label].forEach((team, index) => {
+            data.teams[division].forEach((team, index) => {
               teamTable += `<tr><td>${index + 1}</td><td>${team.name}</td><td>${team.points}</td></tr>`;
             });
   
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         });
   
-        // Render riders
+        // Render riders (with label mapping)
         for (const label in riderDivisionMap) {
           const key = riderDivisionMap[label];
           if (data.riders && data.riders[key]) {
