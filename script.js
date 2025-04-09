@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "Sr Boys",
           "Jr Boys",
           "Jr/Sr Girls",
-          "Juv/Bant Girls",
+          "Bant/Juv Girls",
           "Juv Boys",
           "Bant Boys"
         ];
