@@ -72,6 +72,94 @@
     ]
   },
   "riders": {
+    "Bant Boys": [
+      {
+        "name": "Leo Pullen",
+        "points": 445
+      },
+      {
+        "name": "Jonah Petersen",
+        "points": 420
+      },
+      {
+        "name": "Charlie Sigston",
+        "points": 403
+      },
+      {
+        "name": "Max Campbell",
+        "points": 385
+      },
+      {
+        "name": "Max Murray",
+        "points": 370
+      }
+    ],
+    "Bant Girls": [
+      {
+        "name": "Maelle Hetherington",
+        "points": 480
+      },
+      {
+        "name": "Arleigh Kemo",
+        "points": 475
+      },
+      {
+        "name": "Tyler McIntosh",
+        "points": 440
+      },
+      {
+        "name": "Anja Taylor",
+        "points": 415
+      },
+      {
+        "name": "Tanner Schulz",
+        "points": 415
+      }
+    ],
+    "Jr Boys": [
+      {
+        "name": "Keaton Schisler",
+        "points": 480
+      },
+      {
+        "name": "Russell Ferguson",
+        "points": 455
+      },
+      {
+        "name": "Oscar Tarling",
+        "points": 411
+      },
+      {
+        "name": "Luke Mackie",
+        "points": 391
+      },
+      {
+        "name": "Riley Hobbs ",
+        "points": 370
+      }
+    ],
+    "Jr Girls": [
+      {
+        "name": "Lacey Dennis",
+        "points": 490
+      },
+      {
+        "name": "Sabina Rossiello",
+        "points": 475
+      },
+      {
+        "name": "Isla Gibson",
+        "points": 460
+      },
+      {
+        "name": "Grace Cleland",
+        "points": 430
+      },
+      {
+        "name": "Emily Wilson",
+        "points": 420
+      }
+    ],
     "Juv Boys": [
       {
         "name": "Max Rinzema",
@@ -92,6 +180,72 @@
       {
         "name": "Luke Kranz",
         "points": 365
+      }
+    ],
+    "Juv Girls": [
+      {
+        "name": "Emelie Kvick",
+        "points": 490
+      },
+      {
+        "name": "Elia Comeau",
+        "points": 465
+      },
+      {
+        "name": "Maggie Cormack",
+        "points": 440
+      },
+      {
+        "name": "Kaelah Gagne",
+        "points": 420
+      },
+      {
+        "name": "Lily McGowan",
+        "points": 400
+      }
+    ],
+    "Sr Boys": [
+      {
+        "name": "Braden Aiken",
+        "points": 470
+      },
+      {
+        "name": "Patrick Tarling",
+        "points": 465
+      },
+      {
+        "name": "Aidan Thomson",
+        "points": 465
+      },
+      {
+        "name": "David Weidelener",
+        "points": 395
+      },
+      {
+        "name": "Sam Tierney",
+        "points": 380
+      }
+    ],
+    "Sr Girls": [
+      {
+        "name": "Rebecca Beaton",
+        "points": 500
+      },
+      {
+        "name": "Mhaira Smart",
+        "points": 470
+      },
+      {
+        "name": "Isla Inglis",
+        "points": 440
+      },
+      {
+        "name": "Sophie Harper",
+        "points": 440
+      },
+      {
+        "name": "Bridget Towns",
+        "points": 405
       }
     ]
   }
