@@ -8,7 +8,7 @@ OUTPUT_FILE = "/data/results.json"  # adjust this path to match your site layout
 # === LOAD SHEETS ===
 print("Loading data from:", EXCEL_FILE)
 df_individual = pd.read_excel(EXCEL_FILE, sheet_name="Individual Results")
-df_teams = pd.read_excel(EXCEL_FILE, sheet_name="TeamsExport", header=1)
+df_teams = pd.read_excel(EXCEL_FILE, sheet_name="TeamPoints", header=1)
 
 # === CLEAN TEAMS DATA ===
 left = df_teams.iloc[1:, [0, 1, 8]]  # Left table
