@@ -93,4 +93,19 @@ body {
     font-size: 1.1rem;
     border-bottom: 1px solid #ccc;
   }
+  nav {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #1a4f3c;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
   

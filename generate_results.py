@@ -3,7 +3,7 @@ import json
 
 # === CONFIG ===
 EXCEL_FILE = "Results 2025.xlsx"
-OUTPUT_FILE = "public/data/results.json"  # adjust this path to match your site layout
+OUTPUT_FILE = "/data/results.json"  # adjust this path to match your site layout
 
 # === LOAD SHEETS ===
 print("Loading data from:", EXCEL_FILE)
