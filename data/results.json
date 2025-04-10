@@ -1,5 +1,12 @@
 {
-  "teams": {},
+  "teams": {
+    "Bant Boys": [],
+    "Bant/Juv Girls": [],
+    "Jr Boys": [],
+    "Jr/Sr Girls": [],
+    "Juv Boys": [],
+    "Sr Boys": []
+  },
   "riders": {
     "Bant Boys": [
       {
@@ -121,7 +128,7 @@
         "points": 95
       },
       {
-        "name": "Laine Kauffman \u00a0\u00a0\u00a0 ",
+        "name": "Laine Kauffman",
         "school": "Pemberton  ",
         "points": 90
       },
