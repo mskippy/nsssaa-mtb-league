@@ -1,87 +1,73 @@
 {
   "teams": {
-    "Bant Boys": [
+    "Bantam Boys (Gr 8)": [
       {
-        "name": "Whistler",
-        "points": 1236
+        "name": "Argyle",
+        "points": 225
+      },
+      {
+        "name": "STA",
+        "points": 220
       },
       {
         "name": "Handsworth",
-        "points": 1193
-      },
-      {
-        "name": "Argyle",
-        "points": 837
+        "points": 183
       }
     ],
     "Bant/Juv Girls": [
       {
-        "name": "Pemberton",
-        "points": 1218
+        "name": "Argyle",
+        "points": 0
       },
       {
-        "name": "Whistler",
-        "points": 1155
+        "name": "Brockton",
+        "points": 0
       },
       {
         "name": "Coast Mtn",
-        "points": 1084
+        "points": 0
       }
     ],
-    "Jr Boys": [
-      {
-        "name": "Pemberton",
-        "points": 1217
-      },
+    "Junior Boys (Gr 10)": [
       {
         "name": "Handsworth",
-        "points": 1182
+        "points": 275
       },
       {
-        "name": "Carson",
-        "points": 1075
+        "name": "Whistler",
+        "points": 164
+      },
+      {
+        "name": "Howe Sound",
+        "points": 158
       }
     ],
     "Jr/Sr Girls": [
       {
-        "name": "Pemberton",
-        "points": 1410
-      },
-      {
         "name": "Argyle",
-        "points": 790
+        "points": 0
       },
       {
-        "name": "Whistler",
-        "points": 530
-      }
-    ],
-    "Juv Boys": [
+        "name": "Carson",
+        "points": 0
+      },
       {
         "name": "Handsworth",
-        "points": 1183
-      },
-      {
-        "name": "Don Ross",
-        "points": 880
-      },
-      {
-        "name": "STA",
-        "points": 810
+        "points": 0
       }
     ],
-    "Sr Boys": [
+    "Juvenile Boys (Gr 9)": [
+      {
+        "name": "Don Ross  ",
+        "points": 240
+      },
       {
         "name": "Argyle",
-        "points": 1217
+        "points": 181
       },
       {
-        "name": "Pemberton",
-        "points": 1150
-      },
-      {
-        "name": "Howe Sound",
-        "points": 883
+        "name": "Handsworth",
+        "points": 162
       }
     ]
   },
