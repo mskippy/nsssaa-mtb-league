@@ -1,5 +1,19 @@
 {
   "teams": {
+    "Sr Boys": [
+      {
+        "name": "Pemberton  ",
+        "points": 240
+      },
+      {
+        "name": "Howe Sound",
+        "points": 216
+      },
+      {
+        "name": "Handsworth",
+        "points": 189
+      }
+    ],
     "Jr Boys": [
       {
         "name": "Handsworth",
@@ -16,30 +30,30 @@
     ],
     "Jr/Sr Girls": [
       {
+        "name": "Howe Sound",
+        "points": 275
+      },
+      {
+        "name": "Whistler",
+        "points": 235
+      },
+      {
         "name": "Argyle",
-        "points": 0
-      },
-      {
-        "name": "Carson",
-        "points": 0
-      },
-      {
-        "name": "Handsworth",
-        "points": 0
+        "points": 213
       }
     ],
     "Bant/Juv Girls": [
       {
+        "name": "Seycove",
+        "points": 250
+      },
+      {
         "name": "Argyle",
-        "points": 0
+        "points": 245
       },
       {
-        "name": "Brockton",
-        "points": 0
-      },
-      {
-        "name": "Coast Mtn",
-        "points": 0
+        "name": "Whistler",
+        "points": 245
       }
     ]
   },
