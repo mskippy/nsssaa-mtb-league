@@ -2,305 +2,74 @@
   "teams": {
     "Bant Boys": [
       {
-        "name": "Whistler",
-        "points": 1236
+        "name": "Argyle",
+        "points": 225.0
+      },
+      {
+        "name": "STA",
+        "points": 220.0
       },
       {
         "name": "Handsworth",
-        "points": 1193
-      },
-      {
-        "name": "Argyle",
-        "points": 837
+        "points": 183.0
       }
     ],
     "Bant/Juv Girls": [
       {
-        "name": "Pemberton",
-        "points": 1218
+        "name": "Argyle",
+        "points": 0.0
       },
       {
-        "name": "Whistler",
-        "points": 1155
+        "name": "Brockton",
+        "points": 0.0
       },
       {
         "name": "Coast Mtn",
-        "points": 1084
+        "points": 0.0
       }
     ],
     "Jr Boys": [
       {
-        "name": "Pemberton",
-        "points": 1217
-      },
-      {
         "name": "Handsworth",
-        "points": 1182
+        "points": 275.0
       },
       {
-        "name": "Carson",
-        "points": 1075
+        "name": "Whistler",
+        "points": 164.0
+      },
+      {
+        "name": "Howe Sound",
+        "points": 158.0
       }
     ],
     "Jr/Sr Girls": [
       {
-        "name": "Pemberton",
-        "points": 1410
-      },
-      {
         "name": "Argyle",
-        "points": 790
+        "points": 0.0
       },
       {
-        "name": "Whistler",
-        "points": 530
+        "name": "Carson",
+        "points": 0.0
+      },
+      {
+        "name": "Handsworth",
+        "points": 0.0
       }
     ],
     "Juv Boys": [
       {
-        "name": "Handsworth",
-        "points": 1183
+        "name": "Don Ross  ",
+        "points": 240.0
       },
-      {
-        "name": "Don Ross",
-        "points": 880
-      },
-      {
-        "name": "STA",
-        "points": 810
-      }
-    ],
-    "Sr Boys": [
       {
         "name": "Argyle",
-        "points": 1217
+        "points": 181.0
       },
       {
-        "name": "Pemberton",
-        "points": 1150
-      },
-      {
-        "name": "Howe Sound",
-        "points": 883
+        "name": "Handsworth",
+        "points": 162.0
       }
     ]
   },
-  "riders": {
-    "Bant Boys": [
-      {
-        "name": "Leo Pullen",
-        "school": "Whistler",
-        "points": 445
-      },
-      {
-        "name": "Jonah Petersen",
-        "school": "Handsworth",
-        "points": 420
-      },
-      {
-        "name": "Charlie Sigston",
-        "school": "Handsworth",
-        "points": 403
-      },
-      {
-        "name": "Max Campbell",
-        "school": "Handsworth",
-        "points": 385
-      },
-      {
-        "name": "Max Murray",
-        "school": "Whistler",
-        "points": 370
-      }
-    ],
-    "Bant Girls": [
-      {
-        "name": "Maelle Hetherington",
-        "school": "Coast Mtn",
-        "points": 480
-      },
-      {
-        "name": "Arleigh Kemo",
-        "school": "Pemberton",
-        "points": 475
-      },
-      {
-        "name": "Tyler McIntosh",
-        "school": "Seycove",
-        "points": 440
-      },
-      {
-        "name": "Anja Taylor",
-        "school": "Pemberton",
-        "points": 415
-      },
-      {
-        "name": "Tanner Schulz",
-        "school": "Don Ross",
-        "points": 415
-      }
-    ],
-    "Jr Boys": [
-      {
-        "name": "Keaton Schisler",
-        "school": "Seycove",
-        "points": 480
-      },
-      {
-        "name": "Russell Ferguson",
-        "school": "Handsworth",
-        "points": 455
-      },
-      {
-        "name": "Oscar Tarling",
-        "school": "Pemberton",
-        "points": 411
-      },
-      {
-        "name": "Luke Mackie",
-        "school": "Carson",
-        "points": 391
-      },
-      {
-        "name": "Riley Hobbs ",
-        "school": "Handsworth",
-        "points": 370
-      }
-    ],
-    "Jr Girls": [
-      {
-        "name": "Lacey Dennis",
-        "school": "Howe Sound",
-        "points": 490
-      },
-      {
-        "name": "Sabina Rossiello",
-        "school": "Bby Mtn",
-        "points": 475
-      },
-      {
-        "name": "Isla Gibson",
-        "school": "Windsor",
-        "points": 460
-      },
-      {
-        "name": "Grace Cleland",
-        "school": "Pemberton",
-        "points": 430
-      },
-      {
-        "name": "Emily Wilson",
-        "school": "Pemberton",
-        "points": 420
-      }
-    ],
-    "Juv Boys": [
-      {
-        "name": "Max Rinzema",
-        "school": "Handsworth",
-        "points": 460
-      },
-      {
-        "name": "Felix LeBlanc",
-        "school": "Pemberton",
-        "points": 440
-      },
-      {
-        "name": "Refe Hudson",
-        "school": "Coast Mtn",
-        "points": 410
-      },
-      {
-        "name": "Hendrik Lorenz",
-        "school": "Don Ross",
-        "points": 375
-      },
-      {
-        "name": "Luke Kranz",
-        "school": "Don Ross",
-        "points": 365
-      }
-    ],
-    "Juv Girls": [
-      {
-        "name": "Emelie Kvick",
-        "school": "Windsor",
-        "points": 490
-      },
-      {
-        "name": "Elia Comeau",
-        "school": "Handsworth",
-        "points": 465
-      },
-      {
-        "name": "Maggie Cormack",
-        "school": "Handsworth",
-        "points": 440
-      },
-      {
-        "name": "Kaelah Gagne",
-        "school": "Coast Mtn",
-        "points": 420
-      },
-      {
-        "name": "Lily McGowan",
-        "school": "Whistler",
-        "points": 400
-      }
-    ],
-    "Sr Boys": [
-      {
-        "name": "Braden Aiken",
-        "school": "Whistler",
-        "points": 470
-      },
-      {
-        "name": "Patrick Tarling",
-        "school": "Pemberton",
-        "points": 465
-      },
-      {
-        "name": "Aidan Thomson",
-        "school": "Howe Sound",
-        "points": 465
-      },
-      {
-        "name": "David Weidelener",
-        "school": "Howe Sound",
-        "points": 395
-      },
-      {
-        "name": "Sam Tierney",
-        "school": "Pemberton",
-        "points": 380
-      }
-    ],
-    "Sr Girls": [
-      {
-        "name": "Rebecca Beaton",
-        "school": "Pemberton",
-        "points": 500
-      },
-      {
-        "name": "Mhaira Smart",
-        "school": "Whistler",
-        "points": 470
-      },
-      {
-        "name": "Isla Inglis",
-        "school": "Pemberton",
-        "points": 440
-      },
-      {
-        "name": "Sophie Harper",
-        "school": "Sutherland",
-        "points": 440
-      },
-      {
-        "name": "Bridget Towns",
-        "school": "Argyle",
-        "points": 405
-      }
-    ]
-  }
+  "riders": {}
 }
