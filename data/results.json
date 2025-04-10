@@ -1,34 +1,6 @@
 {
   "teams": {
-    "Bantam Boys (Gr 8)": [
-      {
-        "name": "Argyle",
-        "points": 225
-      },
-      {
-        "name": "STA",
-        "points": 220
-      },
-      {
-        "name": "Handsworth",
-        "points": 183
-      }
-    ],
-    "Bant/Juv Girls": [
-      {
-        "name": "Argyle",
-        "points": 0
-      },
-      {
-        "name": "Brockton",
-        "points": 0
-      },
-      {
-        "name": "Coast Mtn",
-        "points": 0
-      }
-    ],
-    "Junior Boys (Gr 10)": [
+    "Jr Boys": [
       {
         "name": "Handsworth",
         "points": 275
@@ -56,18 +28,18 @@
         "points": 0
       }
     ],
-    "Juvenile Boys (Gr 9)": [
-      {
-        "name": "Don Ross  ",
-        "points": 240
-      },
+    "Bant/Juv Girls": [
       {
         "name": "Argyle",
-        "points": 181
+        "points": 0
       },
       {
-        "name": "Handsworth",
-        "points": 162
+        "name": "Brockton",
+        "points": 0
+      },
+      {
+        "name": "Coast Mtn",
+        "points": 0
       }
     ]
   },
