@@ -1,11 +1,209 @@
 {
   "teams": {
-    "Bant Boys": [],
-    "Bant/Juv Girls": [],
-    "Jr Boys": [],
-    "Jr/Sr Girls": [],
-    "Juv Boys": [],
-    "Sr Boys": []
+    "Division": [
+      {
+        "name": "School",
+        "total": 0,
+        "race1": 0,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Bant Boys": [
+      {
+        "name": "Argyle",
+        "total": 225,
+        "race1": 225,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "STA",
+        "total": 220,
+        "race1": 220,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Handsworth",
+        "total": 183,
+        "race1": 183,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Bant/Juv Girls": [
+      {
+        "name": "Seycove",
+        "total": 250,
+        "race1": 250,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Argyle",
+        "total": 245,
+        "race1": 245,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Whistler",
+        "total": 245,
+        "race1": 245,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Jr Boys": [
+      {
+        "name": "Handsworth",
+        "total": 275,
+        "race1": 275,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Whistler",
+        "total": 164,
+        "race1": 164,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Howe Sound",
+        "total": 158,
+        "race1": 158,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Jr/Sr Girls": [
+      {
+        "name": "Howe Sound",
+        "total": 275,
+        "race1": 275,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Whistler",
+        "total": 235,
+        "race1": 235,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Argyle",
+        "total": 213,
+        "race1": 213,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Juv Boys": [
+      {
+        "name": "Don Ross  ",
+        "total": 240,
+        "race1": 240,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Argyle",
+        "total": 181,
+        "race1": 181,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Whistler",
+        "total": 165,
+        "race1": 165,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ],
+    "Sr Boys": [
+      {
+        "name": "Pemberton  ",
+        "total": 240,
+        "race1": 240,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Howe Sound",
+        "total": 216,
+        "race1": 216,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      },
+      {
+        "name": "Handsworth",
+        "total": 189,
+        "race1": 189,
+        "race2": 0,
+        "race3": 0,
+        "race4": 0,
+        "race5": 0,
+        "race6": 0
+      }
+    ]
   },
   "riders": {
     "Bant Boys": [
