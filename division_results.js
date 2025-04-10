@@ -1,74 +1,67 @@
-// Fetch the results data
-fetch('/data/results.json')
-  .then(response => response.json())
-  .then(data => {
-    const teamsDivisions = data.teams;
-    const ridersDivisions = data.riders;
+document.addEventListener("DOMContentLoaded", () => {
+  const select = document.getElementById("division-select");
+  const container = document.getElementById("division-table-container");
 
-    // Get references to the results containers
-    const teamsContainer = document.getElementById('team-results');
-    const ridersContainer = document.getElementById('rider-results');
-    const divisionSelect = document.getElementById('division-select');
+  fetch("data/division_results.json")
+    .then(res => res.json())
+    .then(data => {
+      const divisions = Object.keys(data).sort();
 
-    // Create the division dropdown menu
-    Object.keys(teamsDivisions).forEach(division => {
-      let option = document.createElement("option");
-      option.value = division;
-      option.textContent = division;
-      divisionSelect.appendChild(option);
-    });
-
-    // Function to render teams based on selected division
-    function renderTeams(division) {
-      const divisionData = teamsDivisions[division];
-      let divisionHTML = `<h3>${division} - Top 3 Teams</h3><table><thead><tr><th>Rank</th><th>Team</th><th>Race 1</th><th>Race 2</th><th>Race 3</th><th>Race 4</th><th>Race 5</th><th>Race 6</th><th>Total</th></tr></thead><tbody>`;
-
-      divisionData.forEach((team, index) => {
-        divisionHTML += `<tr>
-          <td>${index + 1}</td>
-          <td>${team.name}</td>
-          <td>${team.race1 || 'N/A'}</td>
-          <td>${team.race2 || 'N/A'}</td>
-          <td>${team.race3 || 'N/A'}</td>
-          <td>${team.race4 || 'N/A'}</td>
-          <td>${team.race5 || 'N/A'}</td>
-          <td>${team.race6 || 'N/A'}</td>
-          <td>${team.total || 'N/A'}</td>
-        </tr>`;
+      // Populate dropdown
+      divisions.forEach(division => {
+        const option = document.createElement("option");
+        option.value = division;
+        option.textContent = division;
+        select.appendChild(option);
       });
 
-      divisionHTML += `</tbody></table>`;
-      teamsContainer.innerHTML = divisionHTML;
-    }
+      select.addEventListener("change", () => {
+        const selected = select.value;
+        if (!selected || !data[selected]) {
+          container.innerHTML = "";
+          return;
+        }
 
-    // Function to render riders based on selected division
-    function renderRiders(division) {
-      const divisionData = ridersDivisions[division];
-      let divisionHTML = `<h3>${division} - Top 5 Riders</h3><table><thead><tr><th>Rank</th><th>Rider</th><th>School</th><th>Points</th></tr></thead><tbody>`;
+        const riders = [...data[selected]];
 
-      divisionData.forEach((rider, index) => {
-        divisionHTML += `<tr>
-          <td>${index + 1}</td>
-          <td>${rider.name}</td>
-          <td>${rider.school}</td>
-          <td>${rider.points || 'N/A'}</td>
-        </tr>`;
+        // Sort by "Top 5" points descending
+        riders.sort((a, b) => (b["Top 5"] || 0) - (a["Top 5"] || 0));
+
+        // Assign rank
+        riders.forEach((rider, i) => {
+          rider.Rank = i + 1;
+        });
+
+        // Build table
+        let table = `<table class="result-table">
+          <thead><tr>
+            <th>Rank</th><th>Name</th><th>School</th><th>Plate #</th>
+            <th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>R5</th><th>R6</th>
+            <th>Top 5</th>
+          </tr></thead><tbody>`;
+
+        riders.forEach(r => {
+          table += `<tr>
+            <td>${r.Rank}</td>
+            <td>${r["Student Name"]}</td>
+            <td>${r["School"]}</td>
+            <td>${r["Plate #"]}</td>
+            <td>${format(r["R1 Pts"])}</td>
+            <td>${format(r["R2 Pts"])}</td>
+            <td>${format(r["R3 Pts"])}</td>
+            <td>${format(r["R4 Pts"])}</td>
+            <td>${format(r["R5 Pts"])}</td>
+            <td>${format(r["R6 Pts"])}</td>
+            <td><strong>${format(r["Top 5"])}</strong></td>
+          </tr>`;
+        });
+
+        table += "</tbody></table>";
+        container.innerHTML = table;
       });
-
-      divisionHTML += `</tbody></table>`;
-      ridersContainer.innerHTML = divisionHTML;
-    }
-
-    // Event listener for dropdown selection change
-    divisionSelect.addEventListener('change', function() {
-      const selectedDivision = divisionSelect.value;
-      renderTeams(selectedDivision); // Render teams based on selected division
-      renderRiders(selectedDivision); // Render riders based on selected division
     });
 
-    // Default render of the first division (e.g., Sr Boys) when page loads
-    renderTeams(Object.keys(teamsDivisions)[0]);
-    renderRiders(Object.keys(ridersDivisions)[0]);
-
-  })
-  .catch(error => console.error('Error loading the results.json file:', error));
+  function format(val) {
+    return (val === undefined || val === null || val === "NaN") ? "-" : val;
+  }
+});
