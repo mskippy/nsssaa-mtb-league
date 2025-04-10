@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Division Results | NSSSAA MTB</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Division Results</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>NSSSAA Mountain Bike League</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="division-results.html">Division Results</a>
-    </nav>
-  </header>
 
-  <main>
-    <h2>Division Results</h2>
+<header>
+    <h1>Division Results</h1>
+    <select id="division-select">
+        <!-- Options will be populated dynamically -->
+    </select>
+</header>
 
-    <label for="division-select">Select Division:</label>
-    <select id="division-select"></select>
+<main>
+    <section id="teams">
+        <h2>Top 3 Teams per Division</h2>
+        <div id="team-results"></div>
+    </section>
 
-    <div id="results-table"></div>
-  </main>
+    <section id="individuals">
+        <h2>Top 5 Riders per Division</h2>
+        <div id="rider-results"></div>
+    </section>
+</main>
 
-  <footer>
+<footer>
     <p>&copy; 2025 NSSSAA Mountain Bike League</p>
-  </footer>
+</footer>
 
-  <script src="division-results.js"></script>
+<script src="division_results.js"></script>
 </body>
 </html>
