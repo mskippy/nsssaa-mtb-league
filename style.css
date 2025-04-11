@@ -117,6 +117,12 @@ body {
   font-weight: bold;
   color: #0077cc;
 }
+/* Default font color for navigation links */
+.nav-link {
+  color:#2a5d3f; /* Set this to the color you want (e.g., black, blue, etc.) */
+  text-decoration: none; /* Remove underlining */
+  font-weight: bold;
+}
 
 /* Highlight the active link */
 .nav-link.active {
