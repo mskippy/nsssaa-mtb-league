@@ -42,6 +42,9 @@ document.addEventListener("DOMContentLoaded", () => {
               <tbody>`;
   
             filteredTeams.forEach((team) => {
+              // Manually log and verify the points for each race
+              console.log(`Team: ${team.School}, R1: ${team["R1 Pts"]}, R2: ${team["R2 Pts"]}, R3: ${team["R3 Pts"]}, R4: ${team["R4 Pts"]}, R5: ${team["R5 Pts"]}, R6: ${team["R6 Pts"]}`);
+  
               htmlContent += `<tr>
                 <td>${team.rank}</td>
                 <td>${team.School}</td>
