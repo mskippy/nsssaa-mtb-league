@@ -37,5 +37,20 @@
         <p>&copy; 2025 NSSSAA Mountain Bike League</p>
     </footer>
     <script src="script.js"></script>
-</body>
+
+    <script>
+      const path = window.location.pathname;
+      document.querySelectorAll("nav a").forEach(link => {
+        if (path.includes(link.getAttribute("href"))) {
+          link.style.color = "#333"; // or whatever highlight color your homepage uses
+          link.style.fontWeight = "bold";
+          link.style.borderBottom = "2px solid #333";
+        }
+      });
+    </script>
+    
+
+  </body>
+
+
 </html>

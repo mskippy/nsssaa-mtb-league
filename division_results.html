@@ -8,11 +8,20 @@
 </head>
 <body>
   <header>
-    <h1>NSSSAA Mountain Bike League</h1>
-  </header>
+    <header>
+        <h1>NSSSAA Mountain Bike League</h1>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="division_results.html">Division Results</a>
+          <a href="school_results.html">School Results</a>
+        </nav>
+      </header>
+      
+</header>
+
 
   <main>
-    <a href="index.html" class="home-button">← Back to Home</a>
+
 
     <section>
       <h2>Division Results</h2>
@@ -31,5 +40,17 @@
   </footer>
 
   <script src="division_results.js"></script>
+
+  <script>
+    const path = window.location.pathname;
+    document.querySelectorAll("nav a").forEach(link => {
+      if (path.includes(link.getAttribute("href"))) {
+        link.style.color = "#333"; // or whatever highlight color your homepage uses
+        link.style.fontWeight = "bold";
+        link.style.borderBottom = "2px solid #333";
+      }
+    });
+  </script>
+  
 </body>
 </html>
