@@ -109,3 +109,19 @@ body {
     text-decoration: underline;
   }
   
+  .home-button {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #005fa3;
+  }
+  
