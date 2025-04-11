@@ -2,86 +2,86 @@
   "teams": {
     "Bant Boys": [
       {
+        "name": "Argyle",
+        "points": 225
+      },
+      {
         "name": "STA",
-        "points": 220.0
+        "points": 220
       },
       {
         "name": "Handsworth",
-        "points": 183.0
-      },
-      {
-        "name": "Seycove",
-        "points": 138.0
+        "points": 183
       }
     ],
     "Bant/Juv Girls": [
       {
         "name": "Seycove",
-        "points": 250.0
+        "points": 250
       },
       {
         "name": "Whistler",
-        "points": 245.0
+        "points": 245
       },
       {
         "name": "Argyle",
-        "points": 245.0
+        "points": 245
       }
     ],
     "Jr Boys": [
       {
         "name": "Handsworth",
-        "points": 275.0
+        "points": 275
       },
       {
         "name": "Whistler",
-        "points": 164.0
+        "points": 164
       },
       {
         "name": "Howe Sound",
-        "points": 158.0
+        "points": 158
       }
     ],
     "Jr/Sr Girls": [
       {
         "name": "Howe Sound",
-        "points": 275.0
+        "points": 275
       },
       {
         "name": "Whistler",
-        "points": 235.0
+        "points": 235
       },
       {
         "name": "Argyle",
-        "points": 213.0
+        "points": 213
       }
     ],
     "Juv Boys": [
       {
-        "name": "Don Ross ",
-        "points": 240.0
+        "name": "Don Ross",
+        "points": 240
       },
       {
         "name": "Argyle",
-        "points": 181.0
+        "points": 181
       },
       {
         "name": "Whistler",
-        "points": 165.0
+        "points": 165
       }
     ],
     "Sr Boys": [
       {
         "name": "Pemberton",
-        "points": 240.0
+        "points": 240
       },
       {
         "name": "Howe Sound",
-        "points": 216.0
+        "points": 216
       },
       {
         "name": "Handsworth",
-        "points": 189.0
+        "points": 189
       }
     ]
   },

@@ -3,15 +3,16 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('data/team_results.json')
     .then(response => response.json())
     .then(data => {
-      // Debug: Check if data is fetched correctly
-      console.log(data);
+      // Debug: Log the fetched data
+      console.log('Fetched team results data:', data);
 
-      // Define the division order
+      // Ensure we have data for each division
       const divisionOrder = ['Sr Boys', 'Jr Boys', 'Jr/Sr Girls', 'Bant/Juv Girls', 'Juv Boys', 'Bant Boys'];
-
+      
       // Loop through the divisions in the defined order
       divisionOrder.forEach(division => {
         if (data[division]) {
+          console.log(`Processing division: ${division}`);
           const divisionData = data[division];
 
           // Create the division table
@@ -46,11 +47,13 @@ document.addEventListener('DOMContentLoaded', function() {
           });
 
           // Append the table to the page (find the division section to append it)
-          const divisionSection = document.getElementById('division-results'); // The container for division results
+          const divisionSection = document.getElementById('division-results');
           const divisionHeader = document.createElement('h3');
           divisionHeader.innerText = division; // Division name (e.g., Sr Boys, Jr Boys)
           divisionSection.appendChild(divisionHeader);
           divisionSection.appendChild(table);
+        } else {
+          console.log(`No data found for division: ${division}`);
         }
       });
     })
