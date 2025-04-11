@@ -1,67 +1,72 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const select = document.getElementById("division-select");
-  const container = document.getElementById("division-table-container");
+  const select = document.getElementById("school-select");
+  const container = document.getElementById("school-results-container");
 
-  fetch("data/division_results.json")
+  fetch("data/school_results.json")
     .then(res => res.json())
     .then(data => {
-      const divisions = Object.keys(data).sort();
+      // Extract all unique schools
+      const schools = [...new Set(Object.keys(data))];
 
-      // Populate dropdown
-      divisions.forEach(division => {
+      // Populate school dropdown
+      schools.forEach(school => {
         const option = document.createElement("option");
-        option.value = division;
-        option.textContent = division;
+        option.value = school;
+        option.textContent = school;
         select.appendChild(option);
       });
 
       select.addEventListener("change", () => {
-        const selected = select.value;
-        if (!selected || !data[selected]) {
+        const selectedSchool = select.value;
+        if (!selectedSchool) {
           container.innerHTML = "";
           return;
         }
 
-        const riders = [...data[selected]];
+        // Filter and sort riders by school
+        const schoolRiders = Object.keys(data)
+          .map(division => ({
+            division,
+            riders: data[division].filter(rider => rider.school === selectedSchool)
+          }))
+          .filter(item => item.riders.length > 0)
+          .sort((a, b) => {
+            const order = ["Sr Boys", "Jr Boys", "Juv Boys", "Bant Boys"];
+            return order.indexOf(a.division) - order.indexOf(b.division);
+          });
 
-        // Sort by "Top 5" points descending
-        riders.sort((a, b) => (b["Top 5"] || 0) - (a["Top 5"] || 0));
+        // Build tables for each division
+        let html = '';
+        schoolRiders.forEach(({ division, riders }) => {
+          riders.sort((a, b) => b.points - a.points); // Sort by total points descending
 
-        // Assign rank
-        riders.forEach((rider, i) => {
-          rider.Rank = i + 1;
+          let table = `<h3>${division}</h3><table class="result-table">
+            <thead>
+              <tr>
+                <th>Name</th><th>Plate</th><th>Race 1</th><th>Race 2</th><th>Race 3</th>
+                <th>Race 4</th><th>Race 5</th><th>Race 6</th><th>Total Points</th>
+              </tr>
+            </thead><tbody>`;
+
+          riders.forEach(rider => {
+            table += `<tr>
+              <td>${rider.name}</td>
+              <td>${rider.plate}</td>
+              <td>${rider["R1 Place"]} (${rider["R1 Pts"]})</td>
+              <td>${rider["R2 Place"]} (${rider["R2 Pts"]})</td>
+              <td>${rider["R3 Place"]} (${rider["R3 Pts"]})</td>
+              <td>${rider["R4 Place"]} (${rider["R4 Pts"]})</td>
+              <td>${rider["R5 Place"]} (${rider["R5 Pts"]})</td>
+              <td>${rider["R6 Place"]} (${rider["R6 Pts"]})</td>
+              <td><strong>${rider.points}</strong></td>
+            </tr>`;
+          });
+
+          table += "</tbody></table>";
+          html += table;
         });
 
-        // Build table
-        let table = `<table class="result-table">
-          <thead><tr>
-            <th>Rank</th><th>Name</th><th>School</th><th>Plate #</th>
-            <th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>R5</th><th>R6</th>
-            <th>Top 5</th>
-          </tr></thead><tbody>`;
-
-        riders.forEach(r => {
-          table += `<tr>
-            <td>${r.Rank}</td>
-            <td>${r["Student Name"]}</td>
-            <td>${r["School"]}</td>
-            <td>${r["Plate #"]}</td>
-            <td>${format(r["R1 Pts"])}</td>
-            <td>${format(r["R2 Pts"])}</td>
-            <td>${format(r["R3 Pts"])}</td>
-            <td>${format(r["R4 Pts"])}</td>
-            <td>${format(r["R5 Pts"])}</td>
-            <td>${format(r["R6 Pts"])}</td>
-            <td><strong>${format(r["Top 5"])}</strong></td>
-          </tr>`;
-        });
-
-        table += "</tbody></table>";
-        container.innerHTML = table;
+        container.innerHTML = html;
       });
     });
-
-  function format(val) {
-    return (val === undefined || val === null || val === "NaN") ? "-" : val;
-  }
 });
