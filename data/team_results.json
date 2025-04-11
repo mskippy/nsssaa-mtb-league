@@ -1,0 +1,945 @@
+{
+  "Sr Boys": [
+    {
+      "School": "Whistler",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 81.0,
+      "Total": 81.0
+    },
+    {
+      "School": "West Van",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Brockton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 18.0,
+      "Total": 18.0
+    },
+    {
+      "School": "Burnaby Mtn",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 59.0,
+      "Total": 59.0
+    },
+    {
+      "School": "Carson",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 110.0,
+      "Total": 110.0
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Elphinstone",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 189.0,
+      "Total": 189.0
+    },
+    {
+      "School": "Argyle",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 170.0,
+      "Total": 170.0
+    },
+    {
+      "School": "Mulgrave",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 30.0,
+      "Total": 30.0
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 240.0,
+      "Total": 240.0
+    },
+    {
+      "School": "Rockridge",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Seycove",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 100.0,
+      "Total": 100.0
+    },
+    {
+      "School": "St. Georges",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "STA",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Sutherland",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 31.0,
+      "Total": 31.0
+    },
+    {
+      "School": "Howe Sound",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 216.0,
+      "Total": 216.0
+    }
+  ],
+  "Jr Boys": [
+    {
+      "School": "Elphinstone",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "GW Graham",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 275.0,
+      "Total": 275.0
+    },
+    {
+      "School": "Howe Sound",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 158.0,
+      "Total": 158.0
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Rockridge",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Sutherland",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "St. Georges",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 122.0,
+      "Total": 122.0
+    },
+    {
+      "School": "STA",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 139.0,
+      "Total": 139.0
+    },
+    {
+      "School": "West Van",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 31.0,
+      "Total": 31.0
+    },
+    {
+      "School": "Whistler",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 164.0,
+      "Total": 164.0
+    },
+    {
+      "School": "Collingwood",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Seycove",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Windsor",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Carson",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Burnaby Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Argyle",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 132.0,
+      "Total": 132.0
+    },
+    {
+      "School": "Chatelech",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    }
+  ],
+  "Jr/Sr Girls": [
+    {
+      "School": "Sutherland",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Burnaby Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Windsor",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 100.0,
+      "Total": 100.0
+    },
+    {
+      "School": "Whistler",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 235.0,
+      "Total": 235.0
+    },
+    {
+      "School": "STA",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 200.0,
+      "Total": 200.0
+    },
+    {
+      "School": "Howe Sound",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 275.0,
+      "Total": 275.0
+    },
+    {
+      "School": "Carson",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Argyle",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 213.0,
+      "Total": 213.0
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    }
+  ],
+  "Bant/Juv Girls": [
+    {
+      "School": "Argyle",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 245.0,
+      "Total": 245.0
+    },
+    {
+      "School": "Windsor",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "STA",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Whistler",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 245.0,
+      "Total": 245.0
+    },
+    {
+      "School": "Seycove",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 250.0,
+      "Total": 250.0
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 85.0,
+      "Total": 85.0
+    },
+    {
+      "School": "Collingwood",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Brockton",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Don Ross ",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 90.0,
+      "Total": 90.0
+    }
+  ],
+  "Juv Boys": [
+    {
+      "School": "Whistler",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 165.0,
+      "Total": 165.0
+    },
+    {
+      "School": "Mulgrave",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 105.0,
+      "Total": 105.0
+    },
+    {
+      "School": "Sutherland",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "STA",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "St. Georges",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Seycove",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 140.0,
+      "Total": 140.0
+    },
+    {
+      "School": "Rockridge",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 122.0,
+      "Total": 122.0
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 162.0,
+      "Total": 162.0
+    },
+    {
+      "School": "Chatelech",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Don Ross ",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 240.0,
+      "Total": 240.0
+    },
+    {
+      "School": "Collingwood",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Carson",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 101.0,
+      "Total": 101.0
+    },
+    {
+      "School": "Burnaby Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Brockton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 77.0,
+      "Total": 77.0
+    },
+    {
+      "School": "Argyle",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 181.0,
+      "Total": 181.0
+    },
+    {
+      "School": "Elphinstone",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    }
+  ],
+  "Bant Boys": [
+    {
+      "School": "Carson",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Coast Mtn",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Collingwood",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 108.0,
+      "Total": 108.0
+    },
+    {
+      "School": "Don Ross ",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 70.0,
+      "Total": 70.0
+    },
+    {
+      "School": "Elphinstone",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Handsworth",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 183.0,
+      "Total": 183.0
+    },
+    {
+      "School": "Mulgrave",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "St. Georges",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Rockridge",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Seycove",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 138.0,
+      "Total": 138.0
+    },
+    {
+      "School": "STA",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 220.0,
+      "Total": 220.0
+    },
+    {
+      "School": "Sutherland",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 114.0,
+      "Total": 114.0
+    },
+    {
+      "School": "West Van",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Whistler",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Windsor",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    },
+    {
+      "School": "Pemberton",
+      "R1 Pts": 0.0,
+      "R2 Pts": 0.0,
+      "R3 Pts": 0.0,
+      "R4 Pts": 0.0,
+      "R5 Pts": 0.0,
+      "R6 Pts": 100.0,
+      "Total": 100.0
+    },
+    {
+      "School": "Brockton",
+      "R1 Pts": NaN,
+      "R2 Pts": NaN,
+      "R3 Pts": NaN,
+      "R4 Pts": NaN,
+      "R5 Pts": NaN,
+      "R6 Pts": 0.0,
+      "Total": NaN
+    }
+  ],
+  "NaN": []
+}

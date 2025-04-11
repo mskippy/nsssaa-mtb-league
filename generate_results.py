@@ -160,3 +160,43 @@ with open("data/school_results.json", "w") as f:
     json.dump(school_data, f, indent=2)
 
 print("✅ school_results.json created at: data/school_results.json")
+
+import pandas as pd
+import json
+
+# === CONFIG ===
+EXCEL_FILE = "Results 2025.xlsx"
+OUTPUT_FILE = "data/team_results.json"  # Adjust this path as needed
+
+# === LOAD SHEET ===
+print("Loading data from:", EXCEL_FILE)
+df_teams = pd.read_excel(EXCEL_FILE, sheet_name="TeamPoints", header=1)
+
+# === CLEAN DATA ===
+# Select columns A to I (columns 0 to 8 in 0-indexed pandas)
+df_teams = df_teams.iloc[0:101, 0:9]
+df_teams.columns = ['Division', 'School', 'Total', 'R1 Pts', 'R2 Pts', 'R3 Pts', 'R4 Pts', 'R5 Pts', 'R6 Pts']
+
+# Remove rows with no points (Total == 0)
+df_teams = df_teams[df_teams['Total'] != 0]
+
+# Sort by division in your preferred order
+division_order = ["Sr Boys", "Jr Boys", "Jr/Sr Girls", "Bant/Juv Girls", "Juv Boys", "Bant Boys"]
+df_teams['Division'] = pd.Categorical(df_teams['Division'], categories=division_order, ordered=True)
+df_teams = df_teams.sort_values(by='Division')
+
+# === EXPORT TEAM RESULTS ===
+team_data = {}
+
+for division in df_teams['Division'].unique():
+    div_teams = df_teams[df_teams['Division'] == division]
+    
+    # Append data for each team
+    teams = div_teams[['School', 'R1 Pts', 'R2 Pts', 'R3 Pts', 'R4 Pts', 'R5 Pts', 'R6 Pts', 'Total']].to_dict(orient='records')
+    team_data[division] = teams
+
+# Write to JSON
+with open(OUTPUT_FILE, "w") as f:
+    json.dump(team_data, f, indent=2)
+
+print("✅ team_results.json created at:", OUTPUT_FILE)
