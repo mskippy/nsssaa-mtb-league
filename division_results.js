@@ -1,72 +1,69 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const select = document.getElementById("school-select");
-  const container = document.getElementById("school-results-container");
+  const select = document.getElementById("division-select");
+  const container = document.getElementById("division-results-container");
 
-  fetch("data/school_results.json")
-    .then(res => res.json())
-    .then(data => {
-      // Extract all unique schools
-      const schools = [...new Set(Object.keys(data))];
+  // Fetch division data
+  fetch("data/division_results.json")
+    .then((res) => res.json())
+    .then((data) => {
+      const divisions = Object.keys(data).sort();
 
-      // Populate school dropdown
-      schools.forEach(school => {
+      // Populate dropdown
+      divisions.forEach((division) => {
         const option = document.createElement("option");
-        option.value = school;
-        option.textContent = school;
+        option.value = division;
+        option.textContent = division;
         select.appendChild(option);
       });
 
+      // When a division is selected
       select.addEventListener("change", () => {
-        const selectedSchool = select.value;
-        if (!selectedSchool) {
-          container.innerHTML = "";
-          return;
-        }
+        const selected = select.value;
+        container.innerHTML = "";
 
-        // Filter and sort riders by school
-        const schoolRiders = Object.keys(data)
-          .map(division => ({
-            division,
-            riders: data[division].filter(rider => rider.school === selectedSchool)
-          }))
-          .filter(item => item.riders.length > 0)
-          .sort((a, b) => {
-            const order = ["Sr Boys", "Jr Boys", "Juv Boys", "Bant Boys"];
-            return order.indexOf(a.division) - order.indexOf(b.division);
-          });
+        if (!selected || !data[selected]) return;
 
-        // Build tables for each division
-        let html = '';
-        schoolRiders.forEach(({ division, riders }) => {
-          riders.sort((a, b) => b.points - a.points); // Sort by total points descending
+        const riders = [...data[selected]].sort((a, b) => b.points - a.points);
 
-          let table = `<h3>${division}</h3><table class="result-table">
-            <thead>
-              <tr>
-                <th>Name</th><th>Plate</th><th>Race 1</th><th>Race 2</th><th>Race 3</th>
-                <th>Race 4</th><th>Race 5</th><th>Race 6</th><th>Total Points</th>
-              </tr>
-            </thead><tbody>`;
+        let table = `<h3>${selected}</h3>
+        <table class="result-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Plate</th>
+              <th>R1</th><th>R2</th><th>R3</th>
+              <th>R4</th><th>R5</th><th>R6</th>
+              <th>Total</th>
+            </tr>
+          </thead>
+          <tbody>`;
 
-          riders.forEach(rider => {
-            table += `<tr>
-              <td>${rider.name}</td>
-              <td>${rider.plate}</td>
-              <td>${rider["R1 Place"]} (${rider["R1 Pts"]})</td>
-              <td>${rider["R2 Place"]} (${rider["R2 Pts"]})</td>
-              <td>${rider["R3 Place"]} (${rider["R3 Pts"]})</td>
-              <td>${rider["R4 Place"]} (${rider["R4 Pts"]})</td>
-              <td>${rider["R5 Place"]} (${rider["R5 Pts"]})</td>
-              <td>${rider["R6 Place"]} (${rider["R6 Pts"]})</td>
-              <td><strong>${rider.points}</strong></td>
-            </tr>`;
-          });
-
-          table += "</tbody></table>";
-          html += table;
+        riders.forEach((r) => {
+          table += `<tr>
+            <td>${r.name}</td>
+            <td>${r.plate}</td>
+            <td>${formatRace(r["R1 Place"], r["R1 Pts"])}</td>
+            <td>${formatRace(r["R2 Place"], r["R2 Pts"])}</td>
+            <td>${formatRace(r["R3 Place"], r["R3 Pts"])}</td>
+            <td>${formatRace(r["R4 Place"], r["R4 Pts"])}</td>
+            <td>${formatRace(r["R5 Place"], r["R5 Pts"])}</td>
+            <td>${formatRace(r["R6 Place"], r["R6 Pts"])}</td>
+            <td><strong>${r.points ?? "-"}</strong></td>
+          </tr>`;
         });
 
-        container.innerHTML = html;
+        table += "</tbody></table>";
+        container.innerHTML = table;
       });
+    })
+    .catch((err) => {
+      console.error("Failed to load division results:", err);
+      container.innerHTML = "<p>Failed to load division results data.</p>";
     });
+
+  function formatRace(place, pts) {
+    if (!pts && !place) return "-";
+    if (!pts) return `${place}`;
+    return `${place ?? "-"} (${pts})`;
+  }
 });
