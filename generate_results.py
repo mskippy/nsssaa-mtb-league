@@ -1,5 +1,12 @@
+import openpyxl
 import pandas as pd
 import json
+
+# Load the Excel workbook
+workbook = openpyxl.load_workbook("Results 2025.xlsx")
+
+# Load Excel file
+excel_data = pd.read_excel("Results 2025.xlsx", sheet_name=None)
 
 # === CONFIG ===
 EXCEL_FILE = "Results 2025.xlsx"
@@ -59,3 +66,27 @@ with open(OUTPUT_FILE, "w") as f:
     json.dump(results_json, f, indent=2)
 
 print("✅ results.json created at:", OUTPUT_FILE)
+
+
+print("Divisions found:", df_individual['Division'].dropna().unique())
+
+# === EXPORT FULL DIVISION RESULTS ===
+division_data = {}
+
+for division in df_individual['Division'].dropna().unique():
+    div_df = df_individual[df_individual['Division'] == division].copy()
+    div_df['Top 5'] = pd.to_numeric(div_df['Top 5'], errors='coerce')
+    div_df = div_df.sort_values(by='Top 5', ascending=False).reset_index(drop=True)
+
+    # Convert NaN safely and assign to the dictionary
+    division_data[division] = json.loads(
+        div_df.fillna("").to_json(orient='records')
+    )
+
+
+
+
+with open("data/division_results.json", "w") as f:
+    json.dump(division_data, f, indent=2)
+
+print("✅ division_results.json created at: data/division_results.json")
