@@ -118,12 +118,11 @@ body {
   color: #0077cc;
 }
 
-/* Highlight the active link (page you're currently on) */
-.main-nav a.active {
-  color: #ff5733; /* Change this color to what you prefer */
-  border-bottom: 2px solid #ff5733; /* Optional: underline the active page */
+/* Highlight the active link */
+.nav-link.active {
+  color: #ff6347; /* Set this color to whatever you prefer for active state */
+  font-weight: bold;
 }
-
   
   .result-table {
     width: 100%;

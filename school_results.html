@@ -10,12 +10,14 @@
   <header>
     <header>
         <h1>NSSSAA Mountain Bike League</h1>
-        <nav>
-          <a href="index.html">Home</a>
-          <a href="division_results.html">Division Results</a>
-          <a href="school_results.html">School Results</a>
-          <a href="team_results.html">Team Results</a>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="index.html" class="nav-link" id="nav-home">Home</a></li>
+            <li><a href="division_results.html" class="nav-link" id="nav-division">Division Results</a></li>
+            <li><a href="school_results.html" class="nav-link" id="nav-school">School Results</a></li>
+          </ul>
         </nav>
+        
       </header>
       
 </header>
@@ -40,15 +42,18 @@
   <script src="school_results.js"></script>
 
   <script>
-    const path = window.location.pathname;
-    document.querySelectorAll("nav a").forEach(link => {
-      if (path.includes(link.getAttribute("href"))) {
-        link.style.color = "#333"; // or whatever highlight color your homepage uses
-        link.style.fontWeight = "bold";
-        link.style.borderBottom = "2px solid #333";
-      }
-    });
+    const path = window.location.pathname;  // Get the current page's path
+  
+    // Set the active class based on the current page
+    if (path.includes("index")) {
+      document.getElementById("nav-home").classList.add("active");
+    } else if (path.includes("division_results")) {
+      document.getElementById("nav-division").classList.add("active");
+    } else if (path.includes("school_results")) {
+      document.getElementById("nav-school").classList.add("active");
+    }
   </script>
+  
   
 </body>
 </html>
