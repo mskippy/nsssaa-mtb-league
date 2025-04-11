@@ -124,4 +124,41 @@ body {
   .home-button:hover {
     background-color: #005fa3;
   }
+  .home-button {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #005fa3;
+  }
+  
+  .result-table {
+    width: 100%;
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+  }
+  
+  .result-table th, .result-table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .result-table th {
+    background-color: #f4f4f4;
+  }
+  
+  select {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
   
