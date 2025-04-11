@@ -58,7 +58,7 @@
     ],
     "Juv Boys": [
       {
-        "name": "Don Ross  ",
+        "name": "Don Ross ",
         "points": 240.0
       },
       {
@@ -72,7 +72,7 @@
     ],
     "Sr Boys": [
       {
-        "name": "Pemberton  ",
+        "name": "Pemberton",
         "points": 240.0
       },
       {
@@ -89,7 +89,7 @@
     "Bant Boys": [
       {
         "name": "Finlay Wood",
-        "school": "Pemberton  ",
+        "school": "Pemberton",
         "points": 100
       },
       {
@@ -126,7 +126,7 @@
       },
       {
         "name": "Jaime Kranz",
-        "school": "Don Ross  ",
+        "school": "Don Ross ",
         "points": 90
       },
       {
@@ -207,17 +207,17 @@
       },
       {
         "name": "Laine Kauffman",
-        "school": "Pemberton  ",
+        "school": "Pemberton",
         "points": 90
       },
       {
         "name": "Paxton Hunter",
-        "school": "Don Ross  ",
+        "school": "Don Ross ",
         "points": 85
       },
       {
         "name": "Finley Llyod",
-        "school": "Don Ross  ",
+        "school": "Don Ross ",
         "points": 80
       }
     ],
@@ -239,7 +239,7 @@
       },
       {
         "name": "Anja Taylor",
-        "school": "Pemberton  ",
+        "school": "Pemberton",
         "points": 85
       },
       {
@@ -266,12 +266,12 @@
       },
       {
         "name": "Antoine Lessard   ",
-        "school": "Pemberton  ",
+        "school": "Pemberton",
         "points": 85
       },
       {
         "name": "Jack Kettles",
-        "school": "Pemberton  ",
+        "school": "Pemberton",
         "points": 80
       }
     ],

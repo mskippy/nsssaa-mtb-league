@@ -69,67 +69,93 @@ print("✅ results.json created at:", OUTPUT_FILE)
 
 
 
-
-# === EXPORT FULL DIVISION RESULTS ===
+# === EXPORT DIVISION RESULTS ===
 division_data = {}
 
-for division in df_individual['Division'].dropna().unique():
+# Clean up NaN and convert Top 5 to numeric for sorting
+df_individual['Top 5'] = pd.to_numeric(df_individual['Top 5'], errors='coerce')
+df_individual = df_individual.fillna("")  # Replace all NaNs with empty strings
+
+for division in df_individual['Division'].unique():
+    if not division:
+        continue
+
     div_df = df_individual[df_individual['Division'] == division].copy()
-    div_df['Top 5'] = pd.to_numeric(div_df['Top 5'], errors='coerce')
     div_df = div_df.sort_values(by='Top 5', ascending=False).reset_index(drop=True)
 
-    # Convert NaN safely and assign to the dictionary
-    division_data[division] = json.loads(
-        div_df.fillna("").to_json(orient='records')
-    )
+    riders = []
+    for _, row in div_df.iterrows():
+        rider = {
+            "name": row.get("Student Name", ""),
+            "plate": row.get("Plate #", ""),
+            "R1 Place": row.get("R1 Place", ""),
+            "R1 Pts": row.get("R1 Pts", ""),
+            "R2 Place": row.get("R2 Place", ""),
+            "R2 Pts": row.get("R2 Pts", ""),
+            "R3 Place": row.get("R3 Place", ""),
+            "R3 Pts": row.get("R3 Pts", ""),
+            "R4 Place": row.get("R4 Place", ""),
+            "R4 Pts": row.get("R4 Pts", ""),
+            "R5 Place": row.get("R5 Place", ""),
+            "R5 Pts": row.get("R5 Pts", ""),
+            "R6 Place": row.get("R6 Place", ""),
+            "R6 Pts": row.get("R6 Pts", ""),
+            "points": row.get("Top 5", "")
+        }
+        riders.append(rider)
 
-# Print the list of divisions to verify
-print("Divisions found:", df_individual['Division'].dropna().unique())
+    division_data[division] = riders
 
+# Save to file
 with open("data/division_results.json", "w") as f:
     json.dump(division_data, f, indent=2)
 
 print("✅ division_results.json created at: data/division_results.json")
 
+
+
 # === EXPORT SCHOOL RESULTS ===
 school_data = {}
 
-# Group riders by school
+# Group by division first
 for division in df_individual['Division'].dropna().unique():
     div_df = df_individual[df_individual['Division'] == division].copy()
     div_df['Top 5'] = pd.to_numeric(div_df['Top 5'], errors='coerce')
+
+    # Replace NaN in all relevant fields with empty strings to make it JSON safe
+    div_df = div_df.fillna("")
+
     div_df = div_df.sort_values(by='Top 5', ascending=False).reset_index(drop=True)
 
     for _, row in div_df.iterrows():
         school = row['School']
+        if not school:
+            continue
+
         if school not in school_data:
             school_data[school] = []
 
-        # Replace NaN with a safe value (like an empty string or None)
         school_data[school].append({
-            "name": row['Student Name'],
-            "plate": row['Plate #'],
+            "name": row.get("Student Name", ""),
+            "plate": row.get("Plate #", ""),
             "division": division,
-            "R1 Place": row['R1 Place'] if pd.notna(row['R1 Place']) else '',
-            "R1 Pts": row['R1 Pts'] if pd.notna(row['R1 Pts']) else '',
-            "R2 Place": row['R2 Place'] if pd.notna(row['R2 Place']) else '',
-            "R2 Pts": row['R2 Pts'] if pd.notna(row['R2 Pts']) else '',
-            "R3 Place": row['R3 Place'] if pd.notna(row['R3 Place']) else '',
-            "R3 Pts": row['R3 Pts'] if pd.notna(row['R3 Pts']) else '',
-            "R4 Place": row['R4 Place'] if pd.notna(row['R4 Place']) else '',
-            "R4 Pts": row['R4 Pts'] if pd.notna(row['R4 Pts']) else '',
-            "R5 Place": row['R5 Place'] if pd.notna(row['R5 Place']) else '',
-            "R5 Pts": row['R5 Pts'] if pd.notna(row['R5 Pts']) else '',
-            "R6 Place": row['R6 Place'] if pd.notna(row['R6 Place']) else '',
-            "R6 Pts": row['R6 Pts'] if pd.notna(row['R6 Pts']) else '',
-            "Top 5": row['Top 5'],
-            "points": row['Top 5']  # This will be calculated directly from the Top 5 column
+            "R1 Place": row.get("R1 Place", ""),
+            "R1 Pts": row.get("R1 Pts", ""),
+            "R2 Place": row.get("R2 Place", ""),
+            "R2 Pts": row.get("R2 Pts", ""),
+            "R3 Place": row.get("R3 Place", ""),
+            "R3 Pts": row.get("R3 Pts", ""),
+            "R4 Place": row.get("R4 Place", ""),
+            "R4 Pts": row.get("R4 Pts", ""),
+            "R5 Place": row.get("R5 Place", ""),
+            "R5 Pts": row.get("R5 Pts", ""),
+            "R6 Place": row.get("R6 Place", ""),
+            "R6 Pts": row.get("R6 Pts", ""),
+            "Top 5": row.get("Top 5", ""),
+            "points": row.get("Top 5", "")
         })
-        
-# Print the list of schools to verify
-print("Schools found:", list(school_data.keys()))
 
-# Export the school data to a JSON file
+# Write school data safely to JSON
 with open("data/school_results.json", "w") as f:
     json.dump(school_data, f, indent=2)
 

@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <th>Plate</th>
                 <th>R1</th><th>R2</th><th>R3</th>
                 <th>R4</th><th>R5</th><th>R6</th>
-                <th>Total (Top 5)</th>
+                <th>Total</th>
               </tr>
             </thead><tbody>`;
 
