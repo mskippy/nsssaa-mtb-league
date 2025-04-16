@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Race Results | NSSSAA MTB League</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav>
+    <ul class="nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="division_results.html">Division Results</a></li>
+      <li><a href="team_results.html">Team Results</a></li>
+      <li><a href="school_results.html">School Results</a></li>
+      <li><a href="race_results.html" class="active">Race Results</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>2024 Race Results</h1>
+
+    <div class="filters">
+      <label for="division">Division:</label>
+      <select id="division"></select>
+
+      <label for="race">Race:</label>
+      <select id="race">
+        <option value="R1">Race 1 - Richard Juryn XC</option>
+        <option value="R2">Race 2 - Seymour Enduro</option>
+        <option value="R3">Race 3 - Alice Lake XC</option>
+        <option value="R4">Race 4 - Alice Lake Enduro</option>
+        <option value="R5">Race 5 - Fromme Enduro</option>
+        <option value="R6">Race 6 - Whistler XC</option>
+      </select>
+    </div>
+
+    <div id="resultsTable"></div>
+  </main>
+
+  <script src="race_results.js"></script>
+</body>
+</html>

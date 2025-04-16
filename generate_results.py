@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 # === CONFIG ===
-EXCEL_FILE = "Results 2025.xlsx"
+EXCEL_FILE = "Results 2025 MASTER.xlsx"
 TEAM_RESULTS_FILE = "data/team_results.json"  # Export path for team results
 
 # === LOAD SHEETS ===
@@ -168,3 +168,5 @@ with open("data/school_results.json", "w") as f:
     json.dump(school_data, f, indent=2)
 
 print("✅ school_results.json created at: data/school_results.json")
+
+
