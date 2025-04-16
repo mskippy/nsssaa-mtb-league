@@ -1,9 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('data/team_results_fixed.json')
+  fetch('data/team_results.json')
     .then(response => response.json())
     .then(data => {
-      console.log("Team Results JSON Loaded:", data);
-
       const divisionOrder = [
         'Sr Boys',
         'Jr Boys',
@@ -16,63 +14,46 @@ document.addEventListener('DOMContentLoaded', function () {
       const divisionSection = document.getElementById('division-results');
 
       divisionOrder.forEach(division => {
-        const teamsRaw = data[division] || [];
-
-        console.log(`Loaded ${teamsRaw.length} teams for division: ${division}`, teamsRaw);
-
-        const teams = teamsRaw.filter(team =>
+        const teams = (data[division] || []).filter(team =>
           team.Total !== null && team.Total !== 0 && !isNaN(team.Total)
         );
 
-
         if (teams.length === 0) return;
 
-        // Create and append division heading
-        const heading = document.createElement('h2');
-        heading.innerText = division;
-        divisionSection.appendChild(heading);
+        // Card wrapper for consistent layout
+        const div = document.createElement('div');
+        div.classList.add('card');
+        div.innerHTML = `<h3>${division}</h3>`;
 
-        // Create table
-        const table = document.createElement('table');
-        table.classList.add('team-results-table');
+        // Build the table
+        let table = `<table class="result-table">
+          <thead>
+            <tr>
+              <th>Rank</th><th>School</th>
+              <th>Race 1</th><th>Race 2</th><th>Race 3</th>
+              <th>Race 4</th><th>Race 5</th><th>Race 6</th>
+              <th>Total</th>
+            </tr>
+          </thead>
+          <tbody>`;
 
-        // Create header row
-        const headers = ['Rank', 'School', 'Race 1', 'Race 2', 'Race 3', 'Race 4', 'Race 5', 'Race 6', 'Total'];
-        const thead = document.createElement('thead');
-        const headerRow = document.createElement('tr');
-        headers.forEach(header => {
-          const th = document.createElement('th');
-          th.innerText = header;
-          headerRow.appendChild(th);
-        });
-        thead.appendChild(headerRow);
-        table.appendChild(thead);
-
-        // Create body rows
-        const tbody = document.createElement('tbody');
         teams.forEach((team, index) => {
-          const row = document.createElement('tr');
-          const cells = [
-            index + 1,
-            team.School,
-            team.Race1 ?? '',
-            team.Race2 ?? '',
-            team.Race3 ?? '',
-            team.Race4 ?? '',
-            team.Race5 ?? '',
-            team.Race6 ?? '',
-            team.Total
-          ];
-          cells.forEach(cell => {
-            const td = document.createElement('td');
-            td.innerText = cell;
-            row.appendChild(td);
-          });
-          tbody.appendChild(row);
+          table += `<tr>
+            <td>${index + 1}</td>
+            <td>${team.School}</td>
+            <td>${team.Race1 || ""}</td>
+            <td>${team.Race2 || ""}</td>
+            <td>${team.Race3 || ""}</td>
+            <td>${team.Race4 || ""}</td>
+            <td>${team.Race5 || ""}</td>
+            <td>${team.Race6 || ""}</td>
+            <td><strong>${team.Total}</strong></td>
+          </tr>`;
         });
 
-        table.appendChild(tbody);
-        divisionSection.appendChild(table);
+        table += "</tbody></table>";
+        div.innerHTML += table;
+        divisionSection.appendChild(div);
       });
     })
     .catch(error => {

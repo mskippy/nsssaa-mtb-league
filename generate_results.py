@@ -43,11 +43,56 @@ for division in df_teams['Division'].unique():
     )
     teams_output[division] = top3.to_dict(orient='records')
 
-# === EXPORT TEAM RESULTS TO JSON ===
-with open(TEAM_RESULTS_FILE, "w") as f:
-    json.dump(teams_output, f, indent=2)
+# === FULL TEAM RESULTS EXPORT (for team_results page) ===
+full_teams_output = {}
+division_order = [
+    "Sr Boys",
+    "Jr Boys",
+    "Jr/Sr Girls",
+    "Bant/Juv Girls",
+    "Juv Boys",
+    "Bant Boys"
+]
 
-print(f"✅ team_results.json created at: {TEAM_RESULTS_FILE}")
+for division in division_order:
+    division_df = df_teams[df_teams["Division"] == division].copy()
+    division_df = division_df.dropna(subset=["Total"])
+    division_df = division_df[division_df["Total"] > 0]
+    division_df = division_df.sort_values(by="Total", ascending=False)
+    division_df = division_df.fillna("")  # <- This line ensures NaN is removed before exporting
+
+    teams = []
+        # Replace NaNs in the race columns before exporting
+    division_df = division_df.fillna("")
+
+    for _, row in division_df.iterrows():
+        team_data = {
+            "School": row["School"],
+            "Race1": row["Race 1"],
+            "Race2": row["Race 2"],
+            "Race3": row["Race 3"],
+            "Race4": row["Race 4"],
+            "Race5": row["Race 5"],
+            "Race6": row["Race 6"],
+            "Total": row["Total"]
+        }
+        teams.append(team_data)
+
+
+    full_teams_output[division] = teams
+
+# Export full team results to team_results.json
+with open("data/team_results.json", "w") as f:
+    json.dump(full_teams_output, f, indent=2)
+
+print("✅ team_results.json created at: data/team_results.json")
+
+
+# === EXPORT TEAM RESULTS TO JSON ===
+# with open(TEAM_RESULTS_FILE, "w") as f:
+#    json.dump(teams_output, f, indent=2)
+
+#print(f"✅ team_results.json created at: {TEAM_RESULTS_FILE}")
 
 
 # === CLEAN RIDERS DATA ===

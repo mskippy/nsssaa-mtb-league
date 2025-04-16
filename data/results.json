@@ -20,26 +20,12 @@
         "points": 250
       },
       {
-        "name": "Whistler",
-        "points": 245
-      },
-      {
         "name": "Argyle",
         "points": 245
-      }
-    ],
-    "Juv Boys": [
-      {
-        "name": "Don Ross",
-        "points": 240
-      },
-      {
-        "name": "Argyle",
-        "points": 181
       },
       {
         "name": "Whistler",
-        "points": 165
+        "points": 245
       }
     ],
     "Jr Boys": [
@@ -68,6 +54,20 @@
       {
         "name": "Argyle",
         "points": 213
+      }
+    ],
+    "Juv Boys": [
+      {
+        "name": "Don Ross",
+        "points": 240
+      },
+      {
+        "name": "Argyle",
+        "points": 181
+      },
+      {
+        "name": "Whistler",
+        "points": 165
       }
     ],
     "Sr Boys": [

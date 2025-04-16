@@ -119,86 +119,6 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 18
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Elphinstone",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "GW Graham",
-      "Race1": 0.0,
-      "Race2": 0.0,
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 0
-    },
-    {
-      "School": "Rockridge",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "St. Georges",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "STA",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "West Van",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "West Van",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ],
   "Jr Boys": [
@@ -271,146 +191,6 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 31
-    },
-    {
-      "School": "Mountainside",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Sutherland",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Seycove",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Rockridge",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Pemberton",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Mulgrave",
-      "Race1": 0.0,
-      "Race2": 0.0,
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 0
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "GW Graham",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Elphinstone",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Collingwood",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Chatelech",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Carson",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Burnaby Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Windsor",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ],
   "Jr/Sr Girls": [
@@ -463,76 +243,6 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 100
-    },
-    {
-      "School": "Burnaby Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Burnaby Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Carson",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Handsworth",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "STA",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Sutherland",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ],
   "Bant/Juv Girls": [
@@ -577,7 +287,7 @@
       "Total": 190
     },
     {
-      "School": "Don Ross ",
+      "School": "Don Ross",
       "Race1": 90.0,
       "Race2": 0.0,
       "Race3": 0.0,
@@ -595,61 +305,11 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 85
-    },
-    {
-      "School": "Brockton",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Collingwood",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Handsworth",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "STA",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ],
   "Juv Boys": [
     {
-      "School": "Don Ross ",
+      "School": "Don Ross",
       "Race1": 240.0,
       "Race2": 0.0,
       "Race3": 0.0,
@@ -747,96 +407,6 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 62
-    },
-    {
-      "School": "Burnaby Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": 0.0,
-      "Race2": 0.0,
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 0
-    },
-    {
-      "School": "Collingwood",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Elphinstone",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "GW Graham",
-      "Race1": 0.0,
-      "Race2": 0.0,
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 0
-    },
-    {
-      "School": "Rockridge",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "St. Georges",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "STA",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Sutherland",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ],
   "Bant Boys": [
@@ -911,7 +481,7 @@
       "Total": 100
     },
     {
-      "School": "Don Ross ",
+      "School": "Don Ross",
       "Race1": 70.0,
       "Race2": 0.0,
       "Race3": 0.0,
@@ -919,116 +489,6 @@
       "Race5": 0.0,
       "Race6": 0.0,
       "Total": 70
-    },
-    {
-      "School": "Mulgrave",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Whistler",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "West Van",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "St. Georges",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Rockridge",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Carson",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Elphinstone",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Coast Mtn",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Chatelech",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Brockton",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
-    },
-    {
-      "School": "Windsor",
-      "Race1": NaN,
-      "Race2": NaN,
-      "Race3": NaN,
-      "Race4": NaN,
-      "Race5": NaN,
-      "Race6": NaN,
-      "Total": 0
     }
   ]
 }
