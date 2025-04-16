@@ -1,7 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('data/team_results.json')
+  fetch('data/team_results_fixed.json')
     .then(response => response.json())
     .then(data => {
+      console.log("Team Results JSON Loaded:", data);
+
       const divisionOrder = [
         'Sr Boys',
         'Jr Boys',
@@ -14,9 +16,14 @@ document.addEventListener('DOMContentLoaded', function () {
       const divisionSection = document.getElementById('division-results');
 
       divisionOrder.forEach(division => {
-        const teams = (data[division] || []).filter(team =>
-          team.Total !== null && team.Total !== 0
+        const teamsRaw = data[division] || [];
+
+        console.log(`Loaded ${teamsRaw.length} teams for division: ${division}`, teamsRaw);
+
+        const teams = teamsRaw.filter(team =>
+          team.Total !== null && team.Total !== 0 && !isNaN(team.Total)
         );
+
 
         if (teams.length === 0) return;
 
