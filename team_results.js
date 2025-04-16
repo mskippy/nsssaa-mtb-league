@@ -1,60 +1,71 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // Fetch team results data from the team_results.json file
+document.addEventListener('DOMContentLoaded', function () {
   fetch('data/team_results.json')
     .then(response => response.json())
     .then(data => {
-      // Debug: Log the fetched data
-      console.log('Fetched team results data:', data);
+      const divisionOrder = [
+        'Sr Boys',
+        'Jr Boys',
+        'Jr/Sr Girls',
+        'Bant/Juv Girls',
+        'Juv Boys',
+        'Bant Boys'
+      ];
 
-      // Ensure we have data for each division
-      const divisionOrder = ['Sr Boys', 'Jr Boys', 'Jr/Sr Girls', 'Bant/Juv Girls', 'Juv Boys', 'Bant Boys'];
-      
-      // Loop through the divisions in the defined order
+      const divisionSection = document.getElementById('division-results');
+
       divisionOrder.forEach(division => {
-        if (data[division]) {
-          console.log(`Processing division: ${division}`);
-          const divisionData = data[division];
+        const teams = (data[division] || []).filter(team =>
+          team.Total !== null && team.Total !== 0
+        );
 
-          // Create the division table
-          const table = document.createElement('table');
-          table.classList.add('team-results-table');
+        if (teams.length === 0) return;
 
-          // Table Header
-          const headerRow = document.createElement('tr');
-          const headers = ['Rank', 'Team', 'Total Points'];
-          headers.forEach(headerText => {
-            const th = document.createElement('th');
-            th.innerText = headerText;
-            headerRow.appendChild(th);
+        // Create and append division heading
+        const heading = document.createElement('h2');
+        heading.innerText = division;
+        divisionSection.appendChild(heading);
+
+        // Create table
+        const table = document.createElement('table');
+        table.classList.add('team-results-table');
+
+        // Create header row
+        const headers = ['Rank', 'School', 'Race 1', 'Race 2', 'Race 3', 'Race 4', 'Race 5', 'Race 6', 'Total'];
+        const thead = document.createElement('thead');
+        const headerRow = document.createElement('tr');
+        headers.forEach(header => {
+          const th = document.createElement('th');
+          th.innerText = header;
+          headerRow.appendChild(th);
+        });
+        thead.appendChild(headerRow);
+        table.appendChild(thead);
+
+        // Create body rows
+        const tbody = document.createElement('tbody');
+        teams.forEach((team, index) => {
+          const row = document.createElement('tr');
+          const cells = [
+            index + 1,
+            team.School,
+            team.Race1 ?? '',
+            team.Race2 ?? '',
+            team.Race3 ?? '',
+            team.Race4 ?? '',
+            team.Race5 ?? '',
+            team.Race6 ?? '',
+            team.Total
+          ];
+          cells.forEach(cell => {
+            const td = document.createElement('td');
+            td.innerText = cell;
+            row.appendChild(td);
           });
-          table.appendChild(headerRow);
+          tbody.appendChild(row);
+        });
 
-          // Table Rows (Ranking teams by Total Points)
-          divisionData.forEach((team, index) => {
-            const row = document.createElement('tr');
-            const rankCell = document.createElement('td');
-            rankCell.innerText = index + 1; // Rank based on order
-            const teamCell = document.createElement('td');
-            teamCell.innerText = team.name;
-            const pointsCell = document.createElement('td');
-            pointsCell.innerText = team.points > 0 ? team.points : '-'; // Show '-' if no points
-            
-            row.appendChild(rankCell);
-            row.appendChild(teamCell);
-            row.appendChild(pointsCell);
-
-            table.appendChild(row);
-          });
-
-          // Append the table to the page (find the division section to append it)
-          const divisionSection = document.getElementById('division-results');
-          const divisionHeader = document.createElement('h3');
-          divisionHeader.innerText = division; // Division name (e.g., Sr Boys, Jr Boys)
-          divisionSection.appendChild(divisionHeader);
-          divisionSection.appendChild(table);
-        } else {
-          console.log(`No data found for division: ${division}`);
-        }
+        table.appendChild(tbody);
+        divisionSection.appendChild(table);
       });
     })
     .catch(error => {
