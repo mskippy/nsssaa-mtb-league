@@ -1791,6 +1791,25 @@
       "points": 90
     },
     {
+      "name": "Matthew Runzer",
+      "plate": 8142,
+      "division": "Bant Boys",
+      "R1 Place": 12,
+      "R1 Pts": 51,
+      "R2 Place": "",
+      "R2 Pts": "",
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 51,
+      "points": 51
+    },
+    {
       "name": "Daniel Gold",
       "plate": 8178,
       "division": "Bant Boys",
@@ -1846,25 +1865,6 @@
       "R6 Pts": "",
       "Top 5": 27,
       "points": 27
-    },
-    {
-      "name": "Matthew Runzer",
-      "plate": 8142,
-      "division": "Bant Boys",
-      "R1 Place": 37,
-      "R1 Pts": 23,
-      "R2 Place": "",
-      "R2 Pts": "",
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 23,
-      "points": 23
     },
     {
       "name": "Asher Webb",
@@ -5121,6 +5121,25 @@
   ],
   "Coast Mtn": [
     {
+      "name": "Dax Tohir",
+      "plate": 8184,
+      "division": "Bant Boys",
+      "R1 Place": "DNR",
+      "R1 Pts": 0,
+      "R2 Place": "",
+      "R2 Pts": "",
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
       "name": "Jasper Fofonoff",
       "plate": 8093,
       "division": "Bant Boys",
@@ -5467,8 +5486,8 @@
   ],
   "Brockton": [
     {
-      "name": "William Hendricks-Ives",
-      "plate": 8010,
+      "name": "Alexander Chan Skadkjaer",
+      "plate": 8009,
       "division": "Bant Boys",
       "R1 Place": "DNR",
       "R1 Pts": 0,
@@ -5486,8 +5505,8 @@
       "points": 0
     },
     {
-      "name": "Alexander Chan Skadkjaer",
-      "plate": 8009,
+      "name": "William Hendricks-Ives",
+      "plate": 8010,
       "division": "Bant Boys",
       "R1 Place": "DNR",
       "R1 Pts": 0,
