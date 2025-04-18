@@ -33,6 +33,14 @@ fetch('data/race_comparison.json')
         table.classList.add("result-table");
       
         const headerRow = document.createElement('tr');
+
+        //Add "Rank" header first
+        const rankTh = document.createElement('th');
+        rankTh.textContent = "Rank";
+        headerRow.appendChild(rankTh);
+
+
+        // Division headers
         const divisionKeys = Object.keys(divisions);
         divisionKeys.forEach(div => {
           const th = document.createElement('th');
@@ -41,10 +49,18 @@ fetch('data/race_comparison.json')
         });
         table.appendChild(headerRow);
       
+        // Max rows for rank
         const maxRows = Math.max(...divisionKeys.map(div => divisions[div].length));
       
         for (let i = 0; i < maxRows; i++) {
           const row = document.createElement('tr');
+
+          // Add rank number first
+          const rankCell = document.createElement('td');
+          rankCell.textContent = i + 1;
+          row.appendChild(rankCell);
+
+          // Add rider cells
           divisionKeys.forEach(div => {
             const td = document.createElement('td');
             const fullText = divisions[div][i] || '';

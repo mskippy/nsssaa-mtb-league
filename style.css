@@ -167,3 +167,8 @@ body {
     margin-top: 2px;
   }
   
+  .result-table th:first-child,
+.result-table td:first-child {
+  text-align: center;
+  width: 50px;
+}
