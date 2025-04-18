@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <table class="result-table">
           <thead>
             <tr>
+              <th>Rank</th>
               <th>Name</th>
               <th>Plate</th>
               <th>R1</th><th>R2</th><th>R3</th>
@@ -40,6 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         riders.forEach((r) => {
           table += `<tr>
+            <td>${index +1}</td>
             <td>${r.name} (${r.school})</td>
             <td>${r.plate}</td>
             <td>${formatRace(r["R1 Place"], r["R1 Pts"])}</td>
