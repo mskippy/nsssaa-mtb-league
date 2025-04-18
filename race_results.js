@@ -24,37 +24,41 @@ fetch('data/race_comparison.json')
     });
 
     function createTableSection(title, divisions) {
-      const section = document.createElement('section');
-      const heading = document.createElement('h3');
-      heading.textContent = title;
-      section.appendChild(heading);
-
-      const table = document.createElement('table');
-      const headerRow = document.createElement('tr');
-      const divisionKeys = Object.keys(divisions);
-      divisionKeys.forEach(div => {
-        const th = document.createElement('th');
-        th.textContent = div;
-        headerRow.appendChild(th);
-      });
-      table.appendChild(headerRow);
-
-      // Determine max number of rows
-      const maxRows = Math.max(...divisionKeys.map(div => divisions[div].length));
-
-      for (let i = 0; i < maxRows; i++) {
-        const row = document.createElement('tr');
+        const section = document.createElement('section');
+        const heading = document.createElement('h3');
+        heading.textContent = title;
+        section.appendChild(heading);
+      
+        const table = document.createElement('table');
+        table.classList.add("results-table");
+      
+        const headerRow = document.createElement('tr');
+        const divisionKeys = Object.keys(divisions);
         divisionKeys.forEach(div => {
-          const td = document.createElement('td');
-          td.textContent = divisions[div][i] || '';
-          row.appendChild(td);
+          const th = document.createElement('th');
+          th.textContent = div;
+          headerRow.appendChild(th);
         });
-        table.appendChild(row);
+        table.appendChild(headerRow);
+      
+        const maxRows = Math.max(...divisionKeys.map(div => divisions[div].length));
+      
+        for (let i = 0; i < maxRows; i++) {
+          const row = document.createElement('tr');
+          divisionKeys.forEach(div => {
+            const td = document.createElement('td');
+            const fullText = divisions[div][i] || '';
+            const [name, school] = fullText.split(/\s\((.*)\)/);  // split into name + school
+            td.innerHTML = name ? `${name}<br><span class="school-name">${school || ''}</span>` : '';
+            row.appendChild(td);
+          });
+          table.appendChild(row);
+        }
+      
+        section.appendChild(table);
+        return section;
       }
-
-      section.appendChild(table);
-      return section;
-    }
+      
   })
   .catch(error => {
     console.error('Error loading race results:', error);
