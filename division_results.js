@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <thead>
             <tr>
               <th>Rank</th>
-              <th>Name</th>
+              <th>Name (School)</th>
               <th>Plate</th>
               <th>R1</th><th>R2</th><th>R3</th>
               <th>R4</th><th>R5</th><th>R6</th>
@@ -39,10 +39,11 @@ document.addEventListener("DOMContentLoaded", () => {
           </thead>
           <tbody>`;
 
-        riders.forEach((r) => {
+        riders.forEach((r, index) => {
+          const schoolText = r.school ? ` (${r.school})` : "";
           table += `<tr>
             <td>${index + 1}</td>
-            <td>${r.name} (${r.school})</td>
+            <td>${r.name}${schoolText}</td>
             <td>${r.plate}</td>
             <td>${formatRace(r["R1 Place"], r["R1 Pts"])}</td>
             <td>${formatRace(r["R2 Place"], r["R2 Pts"])}</td>
