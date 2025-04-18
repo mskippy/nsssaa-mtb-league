@@ -58,16 +58,16 @@
     ],
     "Juv Boys": [
       {
-        "name": "Don Ross",
-        "points": 400
-      },
-      {
         "name": "Argyle",
         "points": 380
       },
       {
         "name": "Whistler",
         "points": 369
+      },
+      {
+        "name": "Handsworth",
+        "points": 335
       }
     ],
     "Sr Boys": [
@@ -130,13 +130,13 @@
         "points": 165
       },
       {
-        "name": "Amelie Rubio",
-        "school": "Argyle",
+        "name": "Stella Henderson",
+        "school": "Seycove",
         "points": 160
       },
       {
-        "name": "Stella Henderson",
-        "school": "Seycove",
+        "name": "Amelie Rubio",
+        "school": "Argyle",
         "points": 160
       }
     ],
@@ -162,8 +162,8 @@
         "points": 155
       },
       {
-        "name": "Sam Fort",
-        "school": "Windsor",
+        "name": "Mario Genove",
+        "school": "Howe Sound",
         "points": 135
       }
     ],
@@ -297,7 +297,7 @@
         "points": 160
       },
       {
-        "name": "Grace Cleland",
+        "name": "Isla Inglis",
         "school": "Pemberton",
         "points": 150
       }

@@ -248,8 +248,8 @@
       "points": 28
     },
     {
-      "name": "Donovan Modequillo",
-      "plate": 10126,
+      "name": "Ethan Reid",
+      "plate": 10130,
       "division": "Jr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -267,8 +267,8 @@
       "points": 0
     },
     {
-      "name": "Ethan Reid",
-      "plate": 10130,
+      "name": "Donovan Modequillo",
+      "plate": 10126,
       "division": "Jr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -974,6 +974,25 @@
       "points": 165
     },
     {
+      "name": "Tavish Bubbs",
+      "plate": 8146,
+      "division": "Bant Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": "DNS",
+      "R2 Pts": 0,
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
       "name": "Mack Manietta",
       "plate": 8147,
       "division": "Bant Boys",
@@ -995,25 +1014,6 @@
     {
       "name": "Henri Teitzel",
       "plate": 8148,
-      "division": "Bant Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": "DNS",
-      "R2 Pts": 0,
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 0,
-      "points": 0
-    },
-    {
-      "name": "Tavish Bubbs",
-      "plate": 8146,
       "division": "Bant Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1620,6 +1620,25 @@
       "points": 1
     },
     {
+      "name": "Jacob Robichaud",
+      "plate": 12367,
+      "division": "Sr Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": "DNS",
+      "R2 Pts": 0,
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
       "name": "Cove Pedrini",
       "plate": 12365,
       "division": "Sr Boys",
@@ -1677,25 +1696,6 @@
       "points": 0
     },
     {
-      "name": "Jacob Robichaud",
-      "plate": 12367,
-      "division": "Sr Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": "DNS",
-      "R2 Pts": 0,
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 0,
-      "points": 0
-    },
-    {
       "name": "Emily Wilson",
       "plate": 1225,
       "division": "Sr Girls",
@@ -1715,13 +1715,13 @@
       "points": 160
     },
     {
-      "name": "Grace Cleland",
-      "plate": 1221,
+      "name": "Isla Inglis",
+      "plate": 1224,
       "division": "Sr Girls",
-      "R1 Place": 6,
-      "R1 Pts": 75,
-      "R2 Place": 6,
-      "R2 Pts": 75,
+      "R1 Place": 9,
+      "R1 Pts": 60,
+      "R2 Place": 3,
+      "R2 Pts": 90,
       "R3 Place": "",
       "R3 Pts": "",
       "R4 Place": "",
@@ -1734,13 +1734,13 @@
       "points": 150
     },
     {
-      "name": "Isla Inglis",
-      "plate": 1224,
+      "name": "Grace Cleland",
+      "plate": 1221,
       "division": "Sr Girls",
-      "R1 Place": 9,
-      "R1 Pts": 60,
-      "R2 Place": 3,
-      "R2 Pts": 90,
+      "R1 Place": 6,
+      "R1 Pts": 75,
+      "R2 Place": 6,
+      "R2 Pts": 75,
       "R3 Place": "",
       "R3 Pts": "",
       "R4 Place": "",
@@ -2553,8 +2553,8 @@
       "points": 3
     },
     {
-      "name": "Braden Humphrey",
-      "plate": 12010,
+      "name": "Dylan Lilley",
+      "plate": 12233,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2572,8 +2572,27 @@
       "points": 0
     },
     {
-      "name": "Dylan Lilley",
-      "plate": 12233,
+      "name": "Tony Spurging",
+      "plate": 12284,
+      "division": "Sr Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": "DNS",
+      "R2 Pts": 0,
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
+      "name": "Braden Humphrey",
+      "plate": 12010,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2612,25 +2631,6 @@
     {
       "name": "Noah Skulbru",
       "plate": 12280,
-      "division": "Sr Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": "DNS",
-      "R2 Pts": 0,
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 0,
-      "points": 0
-    },
-    {
-      "name": "Tony Spurging",
-      "plate": 12284,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2764,8 +2764,8 @@
       "points": 20
     },
     {
-      "name": "Arya Taleghani",
-      "plate": 10110,
+      "name": "Qaim Burgener",
+      "plate": 10111,
       "division": "Jr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2783,8 +2783,8 @@
       "points": 0
     },
     {
-      "name": "Qaim Burgener",
-      "plate": 10111,
+      "name": "Arya Taleghani",
+      "plate": 10110,
       "division": "Jr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3509,8 +3509,8 @@
       "points": 1
     },
     {
-      "name": "Iain Scheffer",
-      "plate": 12383,
+      "name": "Silas McIntosh",
+      "plate": 12382,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3528,8 +3528,8 @@
       "points": 0
     },
     {
-      "name": "Silas McIntosh",
-      "plate": 12382,
+      "name": "Iain Scheffer",
+      "plate": 12383,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3587,8 +3587,8 @@
       "points": 70
     },
     {
-      "name": "Benardo Gomes",
-      "plate": 8135,
+      "name": "Nash Furneaux",
+      "plate": 8132,
       "division": "Bant Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3644,8 +3644,8 @@
       "points": 0
     },
     {
-      "name": "Nash Furneaux",
-      "plate": 8132,
+      "name": "Benardo Gomes",
+      "plate": 8135,
       "division": "Bant Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4448,8 +4448,8 @@
       "points": 3
     },
     {
-      "name": "Cole Paterson ",
-      "plate": 12393,
+      "name": "Evan Spofforth",
+      "plate": 12395,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4467,8 +4467,8 @@
       "points": 0
     },
     {
-      "name": "Evan Spofforth",
-      "plate": 12395,
+      "name": "Cole Paterson ",
+      "plate": 12393,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6060,8 +6060,8 @@
       "points": 65
     },
     {
-      "name": "Carolyn Bachler",
-      "plate": 1020,
+      "name": "Stella Burch",
+      "plate": 1019,
       "division": "Jr Girls",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6079,8 +6079,8 @@
       "points": 0
     },
     {
-      "name": "Stella Burch",
-      "plate": 1019,
+      "name": "Carolyn Bachler",
+      "plate": 1020,
       "division": "Jr Girls",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6421,6 +6421,25 @@
       "points": 14
     },
     {
+      "name": "Jovan Ferdinands",
+      "plate": 12001,
+      "division": "Sr Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": "DNS",
+      "R2 Pts": 0,
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
       "name": "Andre Moore",
       "plate": 12002,
       "division": "Sr Boys",
@@ -6459,25 +6478,6 @@
       "points": 0
     },
     {
-      "name": "Jovan Ferdinands",
-      "plate": 12001,
-      "division": "Sr Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": "DNS",
-      "R2 Pts": 0,
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 0,
-      "points": 0
-    },
-    {
       "name": "Mhairi Smart",
       "plate": 1228,
       "division": "Sr Girls",
@@ -6497,8 +6497,8 @@
       "points": 60
     },
     {
-      "name": "Brooke Bessie",
-      "plate": 1227,
+      "name": "Magalie Mueller",
+      "plate": 1226,
       "division": "Sr Girls",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6516,8 +6516,8 @@
       "points": 0
     },
     {
-      "name": "Magalie Mueller",
-      "plate": 1226,
+      "name": "Brooke Bessie",
+      "plate": 1227,
       "division": "Sr Girls",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -7284,25 +7284,6 @@
   ],
   "GW Graham": [
     {
-      "name": "Arvin Kailey",
-      "plate": 10098,
-      "division": "Jr Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": "DNS",
-      "R2 Pts": 0,
-      "R3 Place": "",
-      "R3 Pts": "",
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 0,
-      "points": 0
-    },
-    {
       "name": "Chase Marchuck",
       "plate": 10099,
       "division": "Jr Boys",
@@ -7322,9 +7303,9 @@
       "points": 0
     },
     {
-      "name": "Brady Mallon",
-      "plate": 9040,
-      "division": "Juv Boys",
+      "name": "Arvin Kailey",
+      "plate": 10098,
+      "division": "Jr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
       "R2 Place": "DNS",
@@ -7360,8 +7341,8 @@
       "points": 0
     },
     {
-      "name": "Oscar Engel",
-      "plate": 9041,
+      "name": "Brady Mallon",
+      "plate": 9040,
       "division": "Juv Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -7379,9 +7360,9 @@
       "points": 0
     },
     {
-      "name": "Garrett McLean",
-      "plate": 12327,
-      "division": "Sr Boys",
+      "name": "Oscar Engel",
+      "plate": 9041,
+      "division": "Juv Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
       "R2 Place": "DNS",
@@ -7419,6 +7400,25 @@
     {
       "name": "Ryder Johnston",
       "plate": 12326,
+      "division": "Sr Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": "DNS",
+      "R2 Pts": 0,
+      "R3 Place": "",
+      "R3 Pts": "",
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 0,
+      "points": 0
+    },
+    {
+      "name": "Garrett McLean",
+      "plate": 12327,
       "division": "Sr Boys",
       "R1 Place": "DNS",
       "R1 Pts": 0,
