@@ -2,6 +2,7 @@
   "Bant Boys": [
     {
       "name": "John Suda",
+      "school": "STA",
       "plate": 8163,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -19,6 +20,7 @@
     },
     {
       "name": "Alexandre Comeau",
+      "school": "Handsworth",
       "plate": 8137,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -36,6 +38,7 @@
     },
     {
       "name": "Finlay Wood",
+      "school": "Pemberton",
       "plate": 8149,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -53,6 +56,7 @@
     },
     {
       "name": "Xavier Zibert",
+      "school": "STA",
       "plate": 8165,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -70,6 +74,7 @@
     },
     {
       "name": "Sacha Strajt-Bornik",
+      "school": "Argyle",
       "plate": 8121,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -87,6 +92,7 @@
     },
     {
       "name": "Matthew Crockford",
+      "school": "Argyle",
       "plate": 8122,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -104,6 +110,7 @@
     },
     {
       "name": "Elliot O'Hara",
+      "school": "STA",
       "plate": 8161,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -121,6 +128,7 @@
     },
     {
       "name": "Aiden Klimek",
+      "school": "Mulgrave",
       "plate": 8144,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -138,6 +146,7 @@
     },
     {
       "name": "Benjamin MacPherson",
+      "school": "Handsworth",
       "plate": 8139,
       "R1 Place": 16,
       "R1 Pts": 44,
@@ -155,6 +164,7 @@
     },
     {
       "name": "Jasper Fofonoff",
+      "school": "Coast Mtn",
       "plate": 8093,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -172,6 +182,7 @@
     },
     {
       "name": "Landon Brown",
+      "school": "STA",
       "plate": 8159,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -189,6 +200,7 @@
     },
     {
       "name": "Kyle Hopper-Isaac",
+      "school": "Seycove",
       "plate": 8153,
       "R1 Place": 14,
       "R1 Pts": 47,
@@ -206,6 +218,7 @@
     },
     {
       "name": "Olivier Courcelles",
+      "school": "Don Ross ",
       "plate": 8133,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -223,6 +236,7 @@
     },
     {
       "name": "Daniel Gold",
+      "school": "Handsworth",
       "plate": 8178,
       "R1 Place": 13,
       "R1 Pts": 49,
@@ -240,6 +254,7 @@
     },
     {
       "name": "Ben Hall",
+      "school": "Argyle",
       "plate": 8118,
       "R1 Place": 15,
       "R1 Pts": 45,
@@ -257,6 +272,7 @@
     },
     {
       "name": "Tavian Haddad",
+      "school": "Collingwood",
       "plate": 8127,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -274,6 +290,7 @@
     },
     {
       "name": "Finny Stacey",
+      "school": "Collingwood",
       "plate": 8125,
       "R1 Place": 17,
       "R1 Pts": 43,
@@ -291,6 +308,7 @@
     },
     {
       "name": "Maximo Garido",
+      "school": "Elphinstone",
       "plate": 8182,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -308,6 +326,7 @@
     },
     {
       "name": "Stellan Ortved",
+      "school": "Collingwood",
       "plate": 8128,
       "R1 Place": 24,
       "R1 Pts": 36,
@@ -325,6 +344,7 @@
     },
     {
       "name": "Wyatt Orr",
+      "school": "Sutherland",
       "plate": 8168,
       "R1 Place": 20,
       "R1 Pts": 40,
@@ -342,6 +362,7 @@
     },
     {
       "name": "Alexandre Roy",
+      "school": "Sutherland",
       "plate": 8170,
       "R1 Place": 19,
       "R1 Pts": 41,
@@ -359,6 +380,7 @@
     },
     {
       "name": "Matthew Runzer",
+      "school": "Handsworth",
       "plate": 8142,
       "R1 Place": 12,
       "R1 Pts": 51,
@@ -376,6 +398,7 @@
     },
     {
       "name": "Thomson Bythell",
+      "school": "Don Ross ",
       "plate": 8134,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -393,6 +416,7 @@
     },
     {
       "name": "Luke Brownlee",
+      "school": "STA",
       "plate": 8160,
       "R1 Place": 23,
       "R1 Pts": 37,
@@ -410,6 +434,7 @@
     },
     {
       "name": "Logan Weiss-Podolski",
+      "school": "Carson",
       "plate": 804,
       "R1 Place": 36,
       "R1 Pts": 24,
@@ -427,6 +452,7 @@
     },
     {
       "name": "Charlie Jones",
+      "school": "St. Georges",
       "plate": 8157,
       "R1 Place": 30,
       "R1 Pts": 30,
@@ -444,6 +470,7 @@
     },
     {
       "name": "Gavin Del Fante",
+      "school": "Seycove",
       "plate": 8152,
       "R1 Place": 35,
       "R1 Pts": 25,
@@ -461,6 +488,7 @@
     },
     {
       "name": "Lucas Norbert",
+      "school": "Seycove",
       "plate": 8156,
       "R1 Place": 11,
       "R1 Pts": 53,
@@ -478,6 +506,7 @@
     },
     {
       "name": "Peter Miller",
+      "school": "Elphinstone",
       "plate": 8136,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -495,6 +524,7 @@
     },
     {
       "name": "Bradley Harris",
+      "school": "Sutherland",
       "plate": 8169,
       "R1 Place": 37,
       "R1 Pts": 23,
@@ -512,6 +542,7 @@
     },
     {
       "name": "Simon Hungr Gonzalez",
+      "school": "West Van",
       "plate": 8172,
       "R1 Place": 26,
       "R1 Pts": 34,
@@ -529,6 +560,7 @@
     },
     {
       "name": "James Felix",
+      "school": "Windsor",
       "plate": 8175,
       "R1 Place": 39,
       "R1 Pts": 21,
@@ -546,6 +578,7 @@
     },
     {
       "name": "Pierre Hungr Gonzalez",
+      "school": "West Van",
       "plate": 8171,
       "R1 Place": 25,
       "R1 Pts": 35,
@@ -563,6 +596,7 @@
     },
     {
       "name": "Bruckner Norman-Thiessen",
+      "school": "Collingwood",
       "plate": 8129,
       "R1 Place": 31,
       "R1 Pts": 29,
@@ -580,6 +614,7 @@
     },
     {
       "name": "Lucas Riedel",
+      "school": "STA",
       "plate": 8162,
       "R1 Place": 28,
       "R1 Pts": 32,
@@ -597,6 +632,7 @@
     },
     {
       "name": "Graydon Hotel",
+      "school": "Handsworth",
       "plate": 8141,
       "R1 Place": 33,
       "R1 Pts": 27,
@@ -614,6 +650,7 @@
     },
     {
       "name": "Kaden Lau",
+      "school": "Sutherland",
       "plate": 8183,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -631,6 +668,7 @@
     },
     {
       "name": "Jack Lucy",
+      "school": "Argyle",
       "plate": 8143,
       "R1 Place": "DNF",
       "R1 Pts": 1,
@@ -648,6 +686,7 @@
     },
     {
       "name": "Milo Trenouth",
+      "school": "Argyle",
       "plate": 8123,
       "R1 Place": 18,
       "R1 Pts": 42,
@@ -665,6 +704,7 @@
     },
     {
       "name": "Bradley Keane",
+      "school": "Collingwood",
       "plate": 8126,
       "R1 Place": 38,
       "R1 Pts": 22,
@@ -682,6 +722,7 @@
     },
     {
       "name": "Cameron Horte",
+      "school": "Rockridge",
       "plate": 8150,
       "R1 Place": 42,
       "R1 Pts": 18,
@@ -699,6 +740,7 @@
     },
     {
       "name": "Asher Webb",
+      "school": "Handsworth",
       "plate": 8138,
       "R1 Place": 41,
       "R1 Pts": 19,
@@ -716,6 +758,7 @@
     },
     {
       "name": "Daniel Munroe",
+      "school": "Argyle",
       "plate": 8117,
       "R1 Place": 21,
       "R1 Pts": 39,
@@ -733,6 +776,7 @@
     },
     {
       "name": "Dax Tohir",
+      "school": "Coast Mtn",
       "plate": 8184,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -750,6 +794,7 @@
     },
     {
       "name": "Jared Kalisch",
+      "school": "Seycove",
       "plate": 8155,
       "R1 Place": 22,
       "R1 Pts": 38,
@@ -767,6 +812,7 @@
     },
     {
       "name": "Bradley Stephenson",
+      "school": "Sutherland",
       "plate": 8166,
       "R1 Place": 40,
       "R1 Pts": 20,
@@ -784,6 +830,7 @@
     },
     {
       "name": "Oliver Thatcher",
+      "school": "Sutherland",
       "plate": 8167,
       "R1 Place": 27,
       "R1 Pts": 33,
@@ -801,6 +848,7 @@
     },
     {
       "name": "Brynn Loader",
+      "school": "Argyle",
       "plate": 8124,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -818,6 +866,7 @@
     },
     {
       "name": "Maksimas Viskontas",
+      "school": "STA",
       "plate": 8164,
       "R1 Place": 29,
       "R1 Pts": 31,
@@ -835,6 +884,7 @@
     },
     {
       "name": "Jackson Bozzer",
+      "school": "St. Georges",
       "plate": 8158,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -852,6 +902,7 @@
     },
     {
       "name": "Oliver Parkinson",
+      "school": "Seycove",
       "plate": 8179,
       "R1 Place": 43,
       "R1 Pts": 17,
@@ -869,6 +920,7 @@
     },
     {
       "name": "Ben Zanatta",
+      "school": "Rockridge",
       "plate": 8151,
       "R1 Place": 32,
       "R1 Pts": 28,
@@ -886,6 +938,7 @@
     },
     {
       "name": "Emil Wright",
+      "school": "Argyle",
       "plate": 8120,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -903,6 +956,7 @@
     },
     {
       "name": "Derin Unal",
+      "school": "Mulgrave",
       "plate": 8145,
       "R1 Place": 34,
       "R1 Pts": 26,
@@ -920,6 +974,7 @@
     },
     {
       "name": "Ryan Young",
+      "school": "Collingwood",
       "plate": 8180,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -937,6 +992,7 @@
     },
     {
       "name": "Rafe Dykstra",
+      "school": "Windsor",
       "plate": 8176,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -954,6 +1010,7 @@
     },
     {
       "name": "Emile Morisset",
+      "school": "Handsworth",
       "plate": 8140,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -971,6 +1028,7 @@
     },
     {
       "name": "Tavish Bubbs",
+      "school": "Pemberton",
       "plate": 8146,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -988,6 +1046,7 @@
     },
     {
       "name": "Nash Furneaux",
+      "school": "Don Ross ",
       "plate": 8132,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1005,6 +1064,7 @@
     },
     {
       "name": "Acklin Dollinger",
+      "school": "Collingwood",
       "plate": 8049,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1022,6 +1082,7 @@
     },
     {
       "name": "Alex Moran",
+      "school": "Chatelech",
       "plate": 8181,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1039,6 +1100,7 @@
     },
     {
       "name": "Braden Hope",
+      "school": "Don Ross ",
       "plate": 8130,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1056,6 +1118,7 @@
     },
     {
       "name": "Jack Westwood",
+      "school": "Don Ross ",
       "plate": 8131,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1073,6 +1136,7 @@
     },
     {
       "name": "Alexander Chan Skadkjaer",
+      "school": "Brockton",
       "plate": 8009,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1090,6 +1154,7 @@
     },
     {
       "name": "William Hendricks-Ives",
+      "school": "Brockton",
       "plate": 8010,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1107,6 +1172,7 @@
     },
     {
       "name": "Benardo Gomes",
+      "school": "Don Ross ",
       "plate": 8135,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1124,6 +1190,7 @@
     },
     {
       "name": "Owen Kainer ",
+      "school": "Seycove",
       "plate": 8154,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1141,6 +1208,7 @@
     },
     {
       "name": "Mack Manietta",
+      "school": "Pemberton",
       "plate": 8147,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1158,6 +1226,7 @@
     },
     {
       "name": "Henri Teitzel",
+      "school": "Pemberton",
       "plate": 8148,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1175,6 +1244,7 @@
     },
     {
       "name": "Everest Crane",
+      "school": "Whistler",
       "plate": 8174,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1192,6 +1262,7 @@
     },
     {
       "name": "Owen White",
+      "school": "Whistler",
       "plate": 8173,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1211,6 +1282,7 @@
   "Bant Girls": [
     {
       "name": "Alva Campos",
+      "school": "Whistler",
       "plate": 855,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -1228,6 +1300,7 @@
     },
     {
       "name": "Jaime Kranz",
+      "school": "Don Ross ",
       "plate": 844,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -1245,6 +1318,7 @@
     },
     {
       "name": "Josie Cooper",
+      "school": "Whistler",
       "plate": 856,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -1262,6 +1336,7 @@
     },
     {
       "name": "Stella Henderson",
+      "school": "Seycove",
       "plate": 852,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -1279,6 +1354,7 @@
     },
     {
       "name": "Amelie Rubio",
+      "school": "Argyle",
       "plate": 832,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -1296,6 +1372,7 @@
     },
     {
       "name": "Eloise McBeth",
+      "school": "Argyle",
       "plate": 819,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -1313,6 +1390,7 @@
     },
     {
       "name": "Beatrix Reilly",
+      "school": "Argyle",
       "plate": 812,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -1330,6 +1408,7 @@
     },
     {
       "name": "Anika  van Straalen",
+      "school": "Handsworth",
       "plate": 858,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -1347,6 +1426,7 @@
     },
     {
       "name": "Vivienne Vroom",
+      "school": "Argyle",
       "plate": 831,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -1364,6 +1444,7 @@
     },
     {
       "name": "Kai Parker",
+      "school": "Seycove",
       "plate": 853,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -1381,6 +1462,7 @@
     },
     {
       "name": "Charli Rinzema",
+      "school": "Handsworth",
       "plate": 846,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1398,6 +1480,7 @@
     },
     {
       "name": "Ella Walsh",
+      "school": "Coast Mtn",
       "plate": 834,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1415,6 +1498,7 @@
     },
     {
       "name": "Austin Lewis",
+      "school": "Whistler",
       "plate": 857,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1432,6 +1516,7 @@
     },
     {
       "name": "Lene Lok",
+      "school": "Don Ross ",
       "plate": 845,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1449,6 +1534,7 @@
     },
     {
       "name": "Taylor Duess",
+      "school": "Brockton",
       "plate": 833,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1466,6 +1552,7 @@
     },
     {
       "name": "Maddy White",
+      "school": "Collingwood",
       "plate": 837,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1483,6 +1570,7 @@
     },
     {
       "name": "Paz  Gonzalez-Echeverria",
+      "school": "Seycove",
       "plate": 854,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1502,6 +1590,7 @@
   "Jr Boys": [
     {
       "name": "Max  Rinzema",
+      "school": "Handsworth",
       "plate": 10105,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -1519,6 +1608,7 @@
     },
     {
       "name": "Tobia Gadotti",
+      "school": "Whistler",
       "plate": 10144,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -1536,6 +1626,7 @@
     },
     {
       "name": "Owen Moore",
+      "school": "Handsworth",
       "plate": 10106,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -1553,6 +1644,7 @@
     },
     {
       "name": "Easton Hestler",
+      "school": "Handsworth",
       "plate": 10101,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -1570,6 +1662,7 @@
     },
     {
       "name": "Mario Genove",
+      "school": "Howe Sound",
       "plate": 10108,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -1587,6 +1680,7 @@
     },
     {
       "name": "Sam Fort",
+      "school": "Windsor",
       "plate": 10145,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -1604,6 +1698,7 @@
     },
     {
       "name": "Charles Suda ",
+      "school": "STA",
       "plate": 10131,
       "R1 Place": 12,
       "R1 Pts": 51,
@@ -1621,6 +1716,7 @@
     },
     {
       "name": "Isaac Fleguel",
+      "school": "Argyle",
       "plate": 10035,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -1638,6 +1734,7 @@
     },
     {
       "name": "Luke Kranz",
+      "school": "Howe Sound",
       "plate": 10147,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -1655,6 +1752,7 @@
     },
     {
       "name": "Adan  De Landa",
+      "school": "Handsworth",
       "plate": 10100,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -1672,6 +1770,7 @@
     },
     {
       "name": "Theo Rothdram",
+      "school": "Whistler",
       "plate": 10141,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1689,6 +1788,7 @@
     },
     {
       "name": "Jack Watkins",
+      "school": "STA",
       "plate": 10133,
       "R1 Place": 13,
       "R1 Pts": 49,
@@ -1706,6 +1806,7 @@
     },
     {
       "name": "Brendan Hutchinson",
+      "school": "Seycove",
       "plate": 10121,
       "R1 Place": 19,
       "R1 Pts": 41,
@@ -1723,6 +1824,7 @@
     },
     {
       "name": "Hendrik Lorenz",
+      "school": "Howe Sound",
       "plate": 10148,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1740,6 +1842,7 @@
     },
     {
       "name": "Jacob Bergerhoff",
+      "school": "Handsworth",
       "plate": 10104,
       "R1 Place": 11,
       "R1 Pts": 53,
@@ -1757,6 +1860,7 @@
     },
     {
       "name": "Lochlun Warren",
+      "school": "Whistler",
       "plate": 10139,
       "R1 Place": 16,
       "R1 Pts": 44,
@@ -1774,6 +1878,7 @@
     },
     {
       "name": "Declan Kirker",
+      "school": "St. Georges",
       "plate": 10123,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -1791,6 +1896,7 @@
     },
     {
       "name": "Mason Foose",
+      "school": "Whistler",
       "plate": 10143,
       "R1 Place": 15,
       "R1 Pts": 45,
@@ -1808,6 +1914,7 @@
     },
     {
       "name": "Ethan Stewart",
+      "school": "Handsworth",
       "plate": 10102,
       "R1 Place": 17,
       "R1 Pts": 43,
@@ -1825,6 +1932,7 @@
     },
     {
       "name": "Shae O'Boyle, ",
+      "school": "STA",
       "plate": 10127,
       "R1 Place": 24,
       "R1 Pts": 36,
@@ -1842,6 +1950,7 @@
     },
     {
       "name": "Henry Harland",
+      "school": "St. Georges",
       "plate": 10122,
       "R1 Place": 23,
       "R1 Pts": 37,
@@ -1859,6 +1968,7 @@
     },
     {
       "name": "Riley Drever",
+      "school": "Howe Sound",
       "plate": 10107,
       "R1 Place": 27,
       "R1 Pts": 33,
@@ -1876,6 +1986,7 @@
     },
     {
       "name": "William Elliott",
+      "school": "STA",
       "plate": 10125,
       "R1 Place": 21,
       "R1 Pts": 39,
@@ -1893,6 +2004,7 @@
     },
     {
       "name": "Ben Christian",
+      "school": "Argyle",
       "plate": 10029,
       "R1 Place": 18,
       "R1 Pts": 42,
@@ -1910,6 +2022,7 @@
     },
     {
       "name": "Oliver Mcknight",
+      "school": "Rockridge",
       "plate": 10118,
       "R1 Place": 25,
       "R1 Pts": 35,
@@ -1927,6 +2040,7 @@
     },
     {
       "name": "Sebastian MacIntosh",
+      "school": "Howe Sound",
       "plate": 10109,
       "R1 Place": 28,
       "R1 Pts": 32,
@@ -1944,6 +2058,7 @@
     },
     {
       "name": "Denis Cormier ",
+      "school": "West Van",
       "plate": 10137,
       "R1 Place": 29,
       "R1 Pts": 31,
@@ -1961,6 +2076,7 @@
     },
     {
       "name": "Zachary Ou",
+      "school": "Burnaby Mtn",
       "plate": 10088,
       "R1 Place": 26,
       "R1 Pts": 34,
@@ -1978,6 +2094,7 @@
     },
     {
       "name": "Cove White",
+      "school": "Whistler",
       "plate": 10142,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -1995,6 +2112,7 @@
     },
     {
       "name": "Carden Tomic",
+      "school": "STA",
       "plate": 10132,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2012,6 +2130,7 @@
     },
     {
       "name": "Andrew Loutit",
+      "school": "Sutherland",
       "plate": 10134,
       "R1 Place": 14,
       "R1 Pts": 47,
@@ -2029,6 +2148,7 @@
     },
     {
       "name": "Micah Enskaitas",
+      "school": "Howe Sound",
       "plate": 10113,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2046,6 +2166,7 @@
     },
     {
       "name": "Hudson Baker ",
+      "school": "Handsworth",
       "plate": 10103,
       "R1 Place": "DNF",
       "R1 Pts": 1,
@@ -2063,6 +2184,7 @@
     },
     {
       "name": "Ashton Parker",
+      "school": "Mountainside",
       "plate": 10077,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2080,6 +2202,7 @@
     },
     {
       "name": "Sean Cavacuiti",
+      "school": "Seycove",
       "plate": 10120,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2097,6 +2220,7 @@
     },
     {
       "name": "Ruben Wright",
+      "school": "Argyle",
       "plate": 10076,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2114,6 +2238,7 @@
     },
     {
       "name": "Borja Sarobe",
+      "school": "Pemberton",
       "plate": 10116,
       "R1 Place": 22,
       "R1 Pts": 38,
@@ -2131,6 +2256,7 @@
     },
     {
       "name": "Oliver Kolkea\u00a0\u00a0\u00a0 ",
+      "school": "West Van",
       "plate": 10135,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2148,6 +2274,7 @@
     },
     {
       "name": "Quentin Bale",
+      "school": "Chatelech",
       "plate": 10092,
       "R1 Place": 30,
       "R1 Pts": 30,
@@ -2165,6 +2292,7 @@
     },
     {
       "name": "Jackson Patchell",
+      "school": "STA",
       "plate": 10129,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2182,6 +2310,7 @@
     },
     {
       "name": "Charlie Young",
+      "school": "West Van",
       "plate": 10138,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2199,6 +2328,7 @@
     },
     {
       "name": "Satoru Yamaguchi",
+      "school": "Argyle",
       "plate": 10080,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2216,6 +2346,7 @@
     },
     {
       "name": "Oliver Radage ",
+      "school": "West Van",
       "plate": 10136,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2233,6 +2364,7 @@
     },
     {
       "name": "Hudson Scarlet",
+      "school": "St. Georges",
       "plate": 10124,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2250,6 +2382,7 @@
     },
     {
       "name": "Andrew More-Ing",
+      "school": "Mulgrave",
       "plate": 10112,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2267,6 +2400,7 @@
     },
     {
       "name": "Chase Marchuck",
+      "school": "GW Graham",
       "plate": 10099,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2284,6 +2418,7 @@
     },
     {
       "name": "Harrison Hume",
+      "school": "Coast Mtn",
       "plate": 10093,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2301,6 +2436,7 @@
     },
     {
       "name": "Qaim Burgener",
+      "school": "Mulgrave",
       "plate": 10111,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2318,6 +2454,7 @@
     },
     {
       "name": "Arya Taleghani",
+      "school": "Mulgrave",
       "plate": 10110,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2335,6 +2472,7 @@
     },
     {
       "name": "Rafe Hudson",
+      "school": "Coast Mtn",
       "plate": 10094,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2352,6 +2490,7 @@
     },
     {
       "name": "Zachary Jimenez",
+      "school": "Collingwood",
       "plate": 10095,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2369,6 +2508,7 @@
     },
     {
       "name": "Beckett Jimenez",
+      "school": "Collingwood",
       "plate": 10096,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2386,6 +2526,7 @@
     },
     {
       "name": "Patrick Martin",
+      "school": "Elphinstone",
       "plate": 10097,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2403,6 +2544,7 @@
     },
     {
       "name": "Arvin Kailey",
+      "school": "GW Graham",
       "plate": 10098,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2420,6 +2562,7 @@
     },
     {
       "name": "Markus Leung",
+      "school": "Argyle",
       "plate": 10149,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2437,6 +2580,7 @@
     },
     {
       "name": "Jake Brackenbury",
+      "school": "Carson",
       "plate": 10090,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2454,6 +2598,7 @@
     },
     {
       "name": "Ethan Reid",
+      "school": "STA",
       "plate": 10130,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2471,6 +2616,7 @@
     },
     {
       "name": "Donovan Modequillo",
+      "school": "STA",
       "plate": 10126,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2488,6 +2634,7 @@
     },
     {
       "name": "Benjamin Horswill",
+      "school": "Rockridge",
       "plate": 10119,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2505,6 +2652,7 @@
     },
     {
       "name": "Felix LeBlanc",
+      "school": "Pemberton",
       "plate": 10114,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2522,6 +2670,7 @@
     },
     {
       "name": "Keaton O'Hara",
+      "school": "STA",
       "plate": 10128,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2539,6 +2688,7 @@
     },
     {
       "name": "Elliott Ringuette",
+      "school": "Whistler",
       "plate": 10140,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2556,6 +2706,7 @@
     },
     {
       "name": "Ben Morris",
+      "school": "Windsor",
       "plate": 10146,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2575,6 +2726,7 @@
   "Jr Girls": [
     {
       "name": "Emelie Kvick",
+      "school": "Windsor",
       "plate": 1024,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -2592,6 +2744,7 @@
     },
     {
       "name": "Elia Comeau",
+      "school": "Handsworth",
       "plate": 1013,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -2609,6 +2762,7 @@
     },
     {
       "name": "Bronwynn Samis",
+      "school": "Argyle",
       "plate": 1002,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -2626,6 +2780,7 @@
     },
     {
       "name": "Sophia Elliott",
+      "school": "STA",
       "plate": 1018,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -2643,6 +2798,7 @@
     },
     {
       "name": "Jenaya Clegg",
+      "school": "Howe Sound",
       "plate": 1016,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -2660,6 +2816,7 @@
     },
     {
       "name": "Claire Benson",
+      "school": "Whistler",
       "plate": 1023,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -2677,6 +2834,7 @@
     },
     {
       "name": "Lily McGowan",
+      "school": "Whistler",
       "plate": 1022,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -2694,6 +2852,7 @@
     },
     {
       "name": "Drea Burton",
+      "school": "Whistler",
       "plate": 1021,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -2711,6 +2870,7 @@
     },
     {
       "name": "Liv Kasubuchi",
+      "school": "Windsor",
       "plate": 1025,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2728,6 +2888,7 @@
     },
     {
       "name": "Zoe Steen",
+      "school": "Carson",
       "plate": 1008,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2745,6 +2906,7 @@
     },
     {
       "name": "Thea Kasubuchi",
+      "school": "Windsor",
       "plate": 1026,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2762,6 +2924,7 @@
     },
     {
       "name": "Liv Teitzel",
+      "school": "Pemberton",
       "plate": 1017,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2779,6 +2942,7 @@
     },
     {
       "name": "Stella Burch",
+      "school": "Whistler",
       "plate": 1019,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2796,6 +2960,7 @@
     },
     {
       "name": "Carolyn Bachler",
+      "school": "Whistler",
       "plate": 1020,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -2815,6 +2980,7 @@
   "Juv Boys": [
     {
       "name": "Paxton Hunter",
+      "school": "Don Ross ",
       "plate": 9035,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -2832,6 +2998,7 @@
     },
     {
       "name": "James Pinfold",
+      "school": "Carson",
       "plate": 9023,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -2849,6 +3016,7 @@
     },
     {
       "name": "Ethan Bookbinder",
+      "school": "Argyle",
       "plate": 991,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -2866,6 +3034,7 @@
     },
     {
       "name": "Max Campbell",
+      "school": "Handsworth",
       "plate": 9048,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -2883,6 +3052,7 @@
     },
     {
       "name": "Max Murray",
+      "school": "Whistler",
       "plate": 9073,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -2900,6 +3070,7 @@
     },
     {
       "name": "Jonah Petersen",
+      "school": "Handsworth",
       "plate": 9047,
       "R1 Place": 18,
       "R1 Pts": 42,
@@ -2917,6 +3088,7 @@
     },
     {
       "name": "Laine Kauffman",
+      "school": "Pemberton",
       "plate": 9057,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -2934,6 +3106,7 @@
     },
     {
       "name": "Ben Carriere",
+      "school": "Whistler",
       "plate": 9072,
       "R1 Place": 22,
       "R1 Pts": 38,
@@ -2951,6 +3124,7 @@
     },
     {
       "name": "John Farrell ",
+      "school": "Seycove",
       "plate": 9060,
       "R1 Place": 14,
       "R1 Pts": 47,
@@ -2968,6 +3142,7 @@
     },
     {
       "name": "Emmanuel Arreaga",
+      "school": "Argyle",
       "plate": 982,
       "R1 Place": 12,
       "R1 Pts": 51,
@@ -2985,6 +3160,7 @@
     },
     {
       "name": "Noah Cullingworth",
+      "school": "Argyle",
       "plate": 9014,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -3002,6 +3178,7 @@
     },
     {
       "name": "Eliot Simmons",
+      "school": "Argyle",
       "plate": 976,
       "R1 Place": 17,
       "R1 Pts": 43,
@@ -3019,6 +3196,7 @@
     },
     {
       "name": "Reed Murray",
+      "school": "Whistler",
       "plate": 9074,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -3036,6 +3214,7 @@
     },
     {
       "name": "Sawyer Munn Gotto",
+      "school": "Whistler",
       "plate": 9069,
       "R1 Place": 21,
       "R1 Pts": 39,
@@ -3053,6 +3232,7 @@
     },
     {
       "name": "Jacob Chowdury",
+      "school": "Seycove",
       "plate": 9059,
       "R1 Place": 16,
       "R1 Pts": 44,
@@ -3070,6 +3250,7 @@
     },
     {
       "name": "Alasdair Cook",
+      "school": "Sutherland",
       "plate": 9065,
       "R1 Place": 11,
       "R1 Pts": 53,
@@ -3087,6 +3268,7 @@
     },
     {
       "name": "Finley Llyod",
+      "school": "Don Ross ",
       "plate": 9034,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -3104,6 +3286,7 @@
     },
     {
       "name": "Cooper Olsen",
+      "school": "Whistler",
       "plate": 9075,
       "R1 Place": 15,
       "R1 Pts": 45,
@@ -3121,6 +3304,7 @@
     },
     {
       "name": "Owen McDonald",
+      "school": "Seycove",
       "plate": 9061,
       "R1 Place": 13,
       "R1 Pts": 49,
@@ -3138,6 +3322,7 @@
     },
     {
       "name": "Gabriel LeBlanc",
+      "school": "Pemberton",
       "plate": 9054,
       "R1 Place": 29,
       "R1 Pts": 31,
@@ -3155,6 +3340,7 @@
     },
     {
       "name": "Will Gore",
+      "school": "Don Ross ",
       "plate": 9038,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -3172,6 +3358,7 @@
     },
     {
       "name": "Nolan Magnusson",
+      "school": "Chatelech",
       "plate": 9027,
       "R1 Place": 19,
       "R1 Pts": 41,
@@ -3189,6 +3376,7 @@
     },
     {
       "name": "Ira Zayac",
+      "school": "Pemberton",
       "plate": 9056,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3206,6 +3394,7 @@
     },
     {
       "name": "Tyler Swain",
+      "school": "Whistler",
       "plate": 9067,
       "R1 Place": 36,
       "R1 Pts": 24,
@@ -3223,6 +3412,7 @@
     },
     {
       "name": "Liam Leaver",
+      "school": "Argyle",
       "plate": 9003,
       "R1 Place": 31,
       "R1 Pts": 29,
@@ -3240,6 +3430,7 @@
     },
     {
       "name": "Oz Olund",
+      "school": "Mulgrave",
       "plate": 9051,
       "R1 Place": 25,
       "R1 Pts": 35,
@@ -3257,6 +3448,7 @@
     },
     {
       "name": "Gray Kirker",
+      "school": "St. Georges",
       "plate": 9062,
       "R1 Place": 27,
       "R1 Pts": 33,
@@ -3274,6 +3466,7 @@
     },
     {
       "name": "Caius von Raven",
+      "school": "Whistler",
       "plate": 9070,
       "R1 Place": 20,
       "R1 Pts": 40,
@@ -3291,6 +3484,7 @@
     },
     {
       "name": "Terrell Bot",
+      "school": "Don Ross ",
       "plate": 9037,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3308,6 +3502,7 @@
     },
     {
       "name": "Deniz Unal",
+      "school": "Mulgrave",
       "plate": 9050,
       "R1 Place": 24,
       "R1 Pts": 36,
@@ -3325,6 +3520,7 @@
     },
     {
       "name": "Connor Kimmins",
+      "school": "Collingwood",
       "plate": 9032,
       "R1 Place": 30,
       "R1 Pts": 30,
@@ -3342,6 +3538,7 @@
     },
     {
       "name": "Massimo Rossiello",
+      "school": "Burnaby Mtn",
       "plate": 9022,
       "R1 Place": 23,
       "R1 Pts": 37,
@@ -3359,6 +3556,7 @@
     },
     {
       "name": "Ethan Isberg",
+      "school": "Rockridge",
       "plate": 9058,
       "R1 Place": 32,
       "R1 Pts": 28,
@@ -3376,6 +3574,7 @@
     },
     {
       "name": "Callum Brown",
+      "school": "Argyle",
       "plate": 952,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3393,6 +3592,7 @@
     },
     {
       "name": "Sully Hooper",
+      "school": "Coast Mtn",
       "plate": 9081,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3410,6 +3610,7 @@
     },
     {
       "name": "Nathan Muller",
+      "school": "Argyle",
       "plate": 9006,
       "R1 Place": 33,
       "R1 Pts": 27,
@@ -3427,6 +3628,7 @@
     },
     {
       "name": "James Harris",
+      "school": "Argyle",
       "plate": 997,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3444,6 +3646,7 @@
     },
     {
       "name": "Charlie Chalke-afifi",
+      "school": "Handsworth",
       "plate": 9044,
       "R1 Place": 35,
       "R1 Pts": 25,
@@ -3461,6 +3664,7 @@
     },
     {
       "name": "Jeremy Smerychynski",
+      "school": "Whistler",
       "plate": 9077,
       "R1 Place": 34,
       "R1 Pts": 26,
@@ -3478,6 +3682,7 @@
     },
     {
       "name": "Logan Scarlett",
+      "school": "Coast Mtn",
       "plate": 9030,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3495,6 +3700,7 @@
     },
     {
       "name": "Leo Pullen",
+      "school": "Whistler",
       "plate": 9068,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3512,6 +3718,7 @@
     },
     {
       "name": "Cole Vrsnik",
+      "school": "Mulgrave",
       "plate": 9049,
       "R1 Place": 26,
       "R1 Pts": 34,
@@ -3529,6 +3736,7 @@
     },
     {
       "name": "Jaiden England",
+      "school": "Brockton",
       "plate": 9016,
       "R1 Place": 28,
       "R1 Pts": 32,
@@ -3546,6 +3754,7 @@
     },
     {
       "name": "Stirling Shaffer",
+      "school": "Chatelech",
       "plate": 9028,
       "R1 Place": 39,
       "R1 Pts": 21,
@@ -3563,6 +3772,7 @@
     },
     {
       "name": "Hugh Ross",
+      "school": "Handsworth",
       "plate": 9045,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3580,6 +3790,7 @@
     },
     {
       "name": "Joe  Orde",
+      "school": "Handsworth",
       "plate": 9046,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3597,6 +3808,7 @@
     },
     {
       "name": "Jacob Hudec",
+      "school": "Chatelech",
       "plate": 9026,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3614,6 +3826,7 @@
     },
     {
       "name": "Isaac Bucci",
+      "school": "Brockton",
       "plate": 9018,
       "R1 Place": 37,
       "R1 Pts": 23,
@@ -3631,6 +3844,7 @@
     },
     {
       "name": "Miles Blay",
+      "school": "Brockton",
       "plate": 9015,
       "R1 Place": 38,
       "R1 Pts": 22,
@@ -3648,6 +3862,7 @@
     },
     {
       "name": "Lucas Allen",
+      "school": "Carson",
       "plate": 9024,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3665,6 +3880,7 @@
     },
     {
       "name": "Marcus Larke",
+      "school": "STA",
       "plate": 9064,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3682,6 +3898,7 @@
     },
     {
       "name": "Caine Uchida",
+      "school": "Chatelech",
       "plate": 9079,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3699,6 +3916,7 @@
     },
     {
       "name": "Owen Levitt",
+      "school": "Whistler",
       "plate": 9071,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3716,6 +3934,7 @@
     },
     {
       "name": "Ryan Alsop",
+      "school": "STA",
       "plate": 9063,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3733,6 +3952,7 @@
     },
     {
       "name": "Luke Borg",
+      "school": "Elphinstone",
       "plate": 9039,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3750,6 +3970,7 @@
     },
     {
       "name": "Arthur Wang",
+      "school": "Collingwood",
       "plate": 9033,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3767,6 +3988,7 @@
     },
     {
       "name": "Holden Adams",
+      "school": "Pemberton",
       "plate": 9078,
       "R1 Place": "DNF",
       "R1 Pts": 1,
@@ -3784,6 +4006,7 @@
     },
     {
       "name": "Toby Chan",
+      "school": "Carson",
       "plate": 9025,
       "R1 Place": "DNF",
       "R1 Pts": 1,
@@ -3801,6 +4024,7 @@
     },
     {
       "name": "Sascha Fluckiger",
+      "school": "Don Ross ",
       "plate": 9036,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3818,6 +4042,7 @@
     },
     {
       "name": "Finn Kjargaard",
+      "school": "Chatelech",
       "plate": 9080,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3835,6 +4060,7 @@
     },
     {
       "name": "Oscar De Leo",
+      "school": "Chatelech",
       "plate": 9029,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3852,6 +4078,7 @@
     },
     {
       "name": "Aiden Cooke",
+      "school": "GW Graham",
       "plate": 9042,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3869,6 +4096,7 @@
     },
     {
       "name": "Charles Sigston",
+      "school": "Handsworth",
       "plate": 9043,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3886,6 +4114,7 @@
     },
     {
       "name": "Brady Mallon",
+      "school": "GW Graham",
       "plate": 9040,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3903,6 +4132,7 @@
     },
     {
       "name": "Oscar Engel",
+      "school": "GW Graham",
       "plate": 9041,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3920,6 +4150,7 @@
     },
     {
       "name": "Mulgrave",
+      "school": "Mulgrave",
       "plate": 9052,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3937,6 +4168,7 @@
     },
     {
       "name": "Dylan Macdonald",
+      "school": "Pemberton",
       "plate": 9055,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3954,6 +4186,7 @@
     },
     {
       "name": "Sebastein Harrison",
+      "school": "Pemberton",
       "plate": 9053,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3971,6 +4204,7 @@
     },
     {
       "name": "William Jeske",
+      "school": "Sutherland",
       "plate": 9066,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -3988,6 +4222,7 @@
     },
     {
       "name": "Hayden Keam",
+      "school": "Whistler",
       "plate": 9076,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4007,6 +4242,7 @@
   "Juv Girls": [
     {
       "name": "Tyler McIntosh",
+      "school": "Seycove",
       "plate": 919,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -4024,6 +4260,7 @@
     },
     {
       "name": "Kayla Sauve",
+      "school": "Windsor",
       "plate": 924,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -4041,6 +4278,7 @@
     },
     {
       "name": "Anja Taylor",
+      "school": "Pemberton",
       "plate": 916,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -4058,6 +4296,7 @@
     },
     {
       "name": "Elliette Cafferata",
+      "school": "Windsor",
       "plate": 923,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -4075,6 +4314,7 @@
     },
     {
       "name": "Ella Winter",
+      "school": "Whistler",
       "plate": 921,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -4092,6 +4332,7 @@
     },
     {
       "name": "Sophia Judson",
+      "school": "Argyle",
       "plate": 908,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -4109,6 +4350,7 @@
     },
     {
       "name": "Annelise Cliburn ",
+      "school": "Argyle",
       "plate": 900,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -4126,6 +4368,7 @@
     },
     {
       "name": "Genevieve Juhasz",
+      "school": "STA",
       "plate": 920,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -4143,6 +4386,7 @@
     },
     {
       "name": "Norah Glavas",
+      "school": "Pemberton",
       "plate": 914,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4160,6 +4404,7 @@
     },
     {
       "name": "Arleigh Kemp",
+      "school": "Pemberton",
       "plate": 915,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4177,6 +4422,7 @@
     },
     {
       "name": "Abby Simpson",
+      "school": "Coast Mtn",
       "plate": 913,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4194,6 +4440,7 @@
     },
     {
       "name": "Maelle Hetherington",
+      "school": "Coast Mtn",
       "plate": 9401,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4211,6 +4458,7 @@
     },
     {
       "name": "Cece Burton",
+      "school": "Whistler",
       "plate": 922,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -4228,6 +4476,7 @@
     },
     {
       "name": "Farah Kagee",
+      "school": "Windsor",
       "plate": 9391,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4245,6 +4494,7 @@
     },
     {
       "name": "Lauryn Megens",
+      "school": "Argyle",
       "plate": 9381,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4262,6 +4512,7 @@
     },
     {
       "name": "Ruby Wells",
+      "school": "Don Ross ",
       "plate": 917,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4279,6 +4530,7 @@
     },
     {
       "name": "Gemma Katona",
+      "school": "Seycove",
       "plate": 918,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4298,6 +4550,7 @@
   "Sr Boys": [
     {
       "name": "Keaton Schisler ",
+      "school": "Seycove",
       "plate": 12384,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -4315,6 +4568,7 @@
     },
     {
       "name": "Simon Lehky",
+      "school": "Howe Sound",
       "plate": 12342,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -4332,6 +4586,7 @@
     },
     {
       "name": "Antoine Lessard   ",
+      "school": "Pemberton",
       "plate": 12377,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -4349,6 +4604,7 @@
     },
     {
       "name": "Jed Fleming",
+      "school": "Howe Sound",
       "plate": 12338,
       "R1 Place": 14,
       "R1 Pts": 47,
@@ -4366,6 +4622,7 @@
     },
     {
       "name": "Jonah Rickard",
+      "school": "Carson",
       "plate": 12316,
       "R1 Place": 13,
       "R1 Pts": 49,
@@ -4383,6 +4640,7 @@
     },
     {
       "name": "Riley Hobbs",
+      "school": "Handsworth",
       "plate": 12006,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -4400,6 +4658,7 @@
     },
     {
       "name": "Jack Kettles",
+      "school": "Pemberton",
       "plate": 12363,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -4417,6 +4676,7 @@
     },
     {
       "name": "Anton Pichler",
+      "school": "Howe Sound",
       "plate": 12352,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -4434,6 +4694,7 @@
     },
     {
       "name": "Noah Gradin",
+      "school": "Handsworth",
       "plate": 12330,
       "R1 Place": 16,
       "R1 Pts": 44,
@@ -4451,6 +4712,7 @@
     },
     {
       "name": "Mateo Quist ",
+      "school": "Howe Sound",
       "plate": 12344,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4468,6 +4730,7 @@
     },
     {
       "name": "Kohlton Hogan",
+      "school": "Argyle",
       "plate": 12265,
       "R1 Place": 15,
       "R1 Pts": 45,
@@ -4485,6 +4748,7 @@
     },
     {
       "name": "Sam Tierney",
+      "school": "Pemberton",
       "plate": 12371,
       "R1 Place": 19,
       "R1 Pts": 41,
@@ -4502,6 +4766,7 @@
     },
     {
       "name": "Eden Golan",
+      "school": "Carson",
       "plate": 12311,
       "R1 Place": 32,
       "R1 Pts": 28,
@@ -4519,6 +4784,7 @@
     },
     {
       "name": "Oscar Tarling",
+      "school": "Pemberton",
       "plate": 12369,
       "R1 Place": 20,
       "R1 Pts": 40,
@@ -4536,6 +4802,7 @@
     },
     {
       "name": "Mark Kronsbein",
+      "school": "Whistler",
       "plate": 12003,
       "R1 Place": 25,
       "R1 Pts": 35,
@@ -4553,6 +4820,7 @@
     },
     {
       "name": "Liam McNolty",
+      "school": "Pemberton",
       "plate": 12364,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -4570,6 +4838,7 @@
     },
     {
       "name": "Nathaniel Pica",
+      "school": "Handsworth",
       "plate": 12329,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -4587,6 +4856,7 @@
     },
     {
       "name": "German Bautista Lopez",
+      "school": "Howe Sound",
       "plate": 12334,
       "R1 Place": 30,
       "R1 Pts": 30,
@@ -4604,6 +4874,7 @@
     },
     {
       "name": "Russell Ferguson",
+      "school": "Handsworth",
       "plate": 12331,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4621,6 +4892,7 @@
     },
     {
       "name": "Kaede Gossman",
+      "school": "Whistler",
       "plate": 12000,
       "R1 Place": 29,
       "R1 Pts": 31,
@@ -4638,6 +4910,7 @@
     },
     {
       "name": "Tyler Holtz",
+      "school": "Argyle",
       "plate": 12285,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -4655,6 +4928,7 @@
     },
     {
       "name": "Emile Palm   ",
+      "school": "Pemberton",
       "plate": 12378,
       "R1 Place": 18,
       "R1 Pts": 42,
@@ -4672,6 +4946,7 @@
     },
     {
       "name": "Spencer Todd",
+      "school": "Howe Sound",
       "plate": 12348,
       "R1 Place": 48,
       "R1 Pts": 12,
@@ -4689,6 +4964,7 @@
     },
     {
       "name": "Carter Soulliere",
+      "school": "Argyle",
       "plate": 12231,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -4706,6 +4982,7 @@
     },
     {
       "name": "Sam Roy",
+      "school": "Sutherland",
       "plate": 12396,
       "R1 Place": 37,
       "R1 Pts": 23,
@@ -4723,6 +5000,7 @@
     },
     {
       "name": "Aaron Kraft   ",
+      "school": "Pemberton",
       "plate": 12376,
       "R1 Place": 17,
       "R1 Pts": 43,
@@ -4740,6 +5018,7 @@
     },
     {
       "name": "Alonso Cruz Bohigas",
+      "school": "Howe Sound",
       "plate": 12336,
       "R1 Place": 28,
       "R1 Pts": 32,
@@ -4757,6 +5036,7 @@
     },
     {
       "name": "Martin Rychtarik",
+      "school": "Howe Sound",
       "plate": 12346,
       "R1 Place": 22,
       "R1 Pts": 38,
@@ -4774,6 +5054,7 @@
     },
     {
       "name": "Luis Gstoehl",
+      "school": "Howe Sound",
       "plate": 12340,
       "R1 Place": 24,
       "R1 Pts": 36,
@@ -4791,6 +5072,7 @@
     },
     {
       "name": "Carter Ficham",
+      "school": "Sutherland",
       "plate": 12388,
       "R1 Place": 52,
       "R1 Pts": 8,
@@ -4808,6 +5090,7 @@
     },
     {
       "name": "Camron Dunn",
+      "school": "Howe Sound",
       "plate": 12337,
       "R1 Place": 44,
       "R1 Pts": 16,
@@ -4825,6 +5108,7 @@
     },
     {
       "name": "Jeanre Raubenheimer",
+      "school": "Sutherland",
       "plate": 12389,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4842,6 +5126,7 @@
     },
     {
       "name": "Rory Taylor",
+      "school": "Pemberton",
       "plate": 12370,
       "R1 Place": 11,
       "R1 Pts": 53,
@@ -4859,6 +5144,7 @@
     },
     {
       "name": "Shu Yano",
+      "school": "Howe Sound",
       "plate": 12349,
       "R1 Place": 12,
       "R1 Pts": 51,
@@ -4876,6 +5162,7 @@
     },
     {
       "name": "Trent McGrenera",
+      "school": "Carson",
       "plate": 12321,
       "R1 Place": 34,
       "R1 Pts": 26,
@@ -4893,6 +5180,7 @@
     },
     {
       "name": "Adam Gadzik",
+      "school": "Howe Sound",
       "plate": 12339,
       "R1 Place": 23,
       "R1 Pts": 37,
@@ -4910,6 +5198,7 @@
     },
     {
       "name": "Dorigatti Valentino\u00a0",
+      "school": "Whistler",
       "plate": 12004,
       "R1 Place": 45,
       "R1 Pts": 15,
@@ -4927,6 +5216,7 @@
     },
     {
       "name": "Jona Marquardt",
+      "school": "Howe Sound",
       "plate": 12343,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4944,6 +5234,7 @@
     },
     {
       "name": "Kai Nunes",
+      "school": "Argyle",
       "plate": 12263,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4961,6 +5252,7 @@
     },
     {
       "name": "Deegan Wright",
+      "school": "Pemberton",
       "plate": 12373,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -4978,6 +5270,7 @@
     },
     {
       "name": "Rylan Whittaker",
+      "school": "Pemberton",
       "plate": 12372,
       "R1 Place": 26,
       "R1 Pts": 34,
@@ -4995,6 +5288,7 @@
     },
     {
       "name": "Seungmin Lee ",
+      "school": "Howe Sound",
       "plate": 12341,
       "R1 Place": 21,
       "R1 Pts": 39,
@@ -5012,6 +5306,7 @@
     },
     {
       "name": "Forrest Stevenson",
+      "school": "Pemberton",
       "plate": 12368,
       "R1 Place": 53,
       "R1 Pts": 7,
@@ -5029,6 +5324,7 @@
     },
     {
       "name": "Hayden Pegram",
+      "school": "Pemberton",
       "plate": 12366,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5046,6 +5342,7 @@
     },
     {
       "name": "Oscar Tschan",
+      "school": "Carson",
       "plate": 12320,
       "R1 Place": 27,
       "R1 Pts": 33,
@@ -5063,6 +5360,7 @@
     },
     {
       "name": "Joey Kearnes",
+      "school": "Pemberton",
       "plate": 12362,
       "R1 Place": 56,
       "R1 Pts": 4,
@@ -5080,6 +5378,7 @@
     },
     {
       "name": "Mason Cruikshanks",
+      "school": "Howe Sound",
       "plate": 12335,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5097,6 +5396,7 @@
     },
     {
       "name": "Miles Nunes",
+      "school": "Mulgrave",
       "plate": 12354,
       "R1 Place": 31,
       "R1 Pts": 29,
@@ -5114,6 +5414,7 @@
     },
     {
       "name": "Pungcheol Kwon",
+      "school": "Howe Sound",
       "plate": 12351,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5131,6 +5432,7 @@
     },
     {
       "name": "Miles Ferguson",
+      "school": "STA",
       "plate": 12387,
       "R1 Place": 40,
       "R1 Pts": 20,
@@ -5148,6 +5450,7 @@
     },
     {
       "name": "Kieran Day",
+      "school": "Argyle",
       "plate": 12264,
       "R1 Place": 55,
       "R1 Pts": 5,
@@ -5165,6 +5468,7 @@
     },
     {
       "name": "Tristan Benes",
+      "school": "Pemberton",
       "plate": 12359,
       "R1 Place": 62,
       "R1 Pts": 1,
@@ -5182,6 +5486,7 @@
     },
     {
       "name": "Tommaso Terragni",
+      "school": "Burnaby Mtn",
       "plate": 12307,
       "R1 Place": 33,
       "R1 Pts": 27,
@@ -5199,6 +5504,7 @@
     },
     {
       "name": "Lorenzo Rivas Madero",
+      "school": "Howe Sound",
       "plate": 12345,
       "R1 Place": 36,
       "R1 Pts": 24,
@@ -5216,6 +5522,7 @@
     },
     {
       "name": "Caleb Leung",
+      "school": "Howe Sound",
       "plate": 12332,
       "R1 Place": 35,
       "R1 Pts": 25,
@@ -5233,6 +5540,7 @@
     },
     {
       "name": "Finn Emes",
+      "school": "Burnaby Mtn",
       "plate": 12305,
       "R1 Place": 41,
       "R1 Pts": 19,
@@ -5250,6 +5558,7 @@
     },
     {
       "name": "Nic Way",
+      "school": "West Van",
       "plate": 12398,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5267,6 +5576,7 @@
     },
     {
       "name": "Guy Shalev",
+      "school": "Argyle",
       "plate": 12253,
       "R1 Place": 38,
       "R1 Pts": 22,
@@ -5284,6 +5594,7 @@
     },
     {
       "name": "Ethan Andrew",
+      "school": "Pemberton",
       "plate": 12357,
       "R1 Place": 39,
       "R1 Pts": 21,
@@ -5301,6 +5612,7 @@
     },
     {
       "name": "Noah Stehn",
+      "school": "Howe Sound",
       "plate": 12347,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5318,6 +5630,7 @@
     },
     {
       "name": "Carter Bucci",
+      "school": "Brockton",
       "plate": 12286,
       "R1 Place": 42,
       "R1 Pts": 18,
@@ -5335,6 +5648,7 @@
     },
     {
       "name": "Nate Morse",
+      "school": "Carson",
       "plate": 12319,
       "R1 Place": 51,
       "R1 Pts": 9,
@@ -5352,6 +5666,7 @@
     },
     {
       "name": "Connor Moore",
+      "school": "Argyle",
       "plate": 12232,
       "R1 Place": 43,
       "R1 Pts": 17,
@@ -5369,6 +5684,7 @@
     },
     {
       "name": "Gatien Radet",
+      "school": "Argyle",
       "plate": 12250,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5386,6 +5702,7 @@
     },
     {
       "name": "Johnny Barton",
+      "school": "Sutherland",
       "plate": 12392,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5403,6 +5720,7 @@
     },
     {
       "name": "Frederick Sohn   ",
+      "school": "Pemberton",
       "plate": 12379,
       "R1 Place": 46,
       "R1 Pts": 14,
@@ -5420,6 +5738,7 @@
     },
     {
       "name": "Damyen Bouvier",
+      "school": "Whistler",
       "plate": 12399,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5437,6 +5756,7 @@
     },
     {
       "name": "Brody Rotzien",
+      "school": "Burnaby Mtn",
       "plate": 12304,
       "R1 Place": 47,
       "R1 Pts": 13,
@@ -5454,6 +5774,7 @@
     },
     {
       "name": "David Harris",
+      "school": "Pemberton",
       "plate": 12361,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5471,6 +5792,7 @@
     },
     {
       "name": "Liam Wildman",
+      "school": "Argyle",
       "plate": 12011,
       "R1 Place": 49,
       "R1 Pts": 11,
@@ -5488,6 +5810,7 @@
     },
     {
       "name": "Finn Anderson",
+      "school": "Argyle",
       "plate": 12239,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5505,6 +5828,7 @@
     },
     {
       "name": "Howard Wang",
+      "school": "Howe Sound",
       "plate": 12350,
       "R1 Place": 50,
       "R1 Pts": 10,
@@ -5522,6 +5846,7 @@
     },
     {
       "name": "Kai McLeod",
+      "school": "Sutherland",
       "plate": 12390,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5539,6 +5864,7 @@
     },
     {
       "name": "Finn Brownlee",
+      "school": "STA",
       "plate": 12386,
       "R1 Place": 54,
       "R1 Pts": 6,
@@ -5556,6 +5882,7 @@
     },
     {
       "name": "Taylor Markham",
+      "school": "Rockridge",
       "plate": 12380,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5573,6 +5900,7 @@
     },
     {
       "name": "Felix Behrisch Elce",
+      "school": "Sutherland",
       "plate": 12391,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5590,6 +5918,7 @@
     },
     {
       "name": "Leif Montgomery ",
+      "school": "Argyle",
       "plate": 12266,
       "R1 Place": 58,
       "R1 Pts": 2,
@@ -5607,6 +5936,7 @@
     },
     {
       "name": "Finlay Bubbs",
+      "school": "Pemberton",
       "plate": 12360,
       "R1 Place": 57,
       "R1 Pts": 3,
@@ -5624,6 +5954,7 @@
     },
     {
       "name": "Prince Wang",
+      "school": "Mulgrave",
       "plate": 12353,
       "R1 Place": 59,
       "R1 Pts": 1,
@@ -5641,6 +5972,7 @@
     },
     {
       "name": "Diego Garcia Tally",
+      "school": "Howe Sound",
       "plate": 12333,
       "R1 Place": 60,
       "R1 Pts": 1,
@@ -5658,6 +5990,7 @@
     },
     {
       "name": "Max Pierson",
+      "school": "Carson",
       "plate": 12318,
       "R1 Place": "DNF",
       "R1 Pts": 1,
@@ -5675,6 +6008,7 @@
     },
     {
       "name": "Harry Duess",
+      "school": "Brockton",
       "plate": 12288,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5692,6 +6026,7 @@
     },
     {
       "name": "Avi Lahulek",
+      "school": "Carson",
       "plate": 12309,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5709,6 +6044,7 @@
     },
     {
       "name": "Seb Nepomnaschy",
+      "school": "Burnaby Mtn",
       "plate": 12306,
       "R1 Place": 61,
       "R1 Pts": 1,
@@ -5726,6 +6062,7 @@
     },
     {
       "name": "Joaquim Di Segni",
+      "school": "Coast Mtn",
       "plate": 12323,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5743,6 +6080,7 @@
     },
     {
       "name": "Kalum Neufeld",
+      "school": "Elphinstone",
       "plate": 12324,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5760,6 +6098,7 @@
     },
     {
       "name": "Simon Brueggemann   ",
+      "school": "Pemberton",
       "plate": 12374,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5777,6 +6116,7 @@
     },
     {
       "name": "Tom Hoffmann",
+      "school": "Seycove",
       "plate": 12325,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5794,6 +6134,7 @@
     },
     {
       "name": "Raiden Kasubuchi",
+      "school": "Windsor",
       "plate": 12008,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5811,6 +6152,7 @@
     },
     {
       "name": "Jacob Adams",
+      "school": "GW Graham",
       "plate": 12328,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5828,6 +6170,7 @@
     },
     {
       "name": "Lucca Hagerman",
+      "school": "Elphinstone",
       "plate": 12325,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5845,6 +6188,7 @@
     },
     {
       "name": "Ryder Johnston",
+      "school": "GW Graham",
       "plate": 12326,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5862,6 +6206,7 @@
     },
     {
       "name": "John Satchell",
+      "school": "Carson",
       "plate": 12315,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5879,6 +6224,7 @@
     },
     {
       "name": "Dylan Lilley",
+      "school": "Argyle",
       "plate": 12233,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5896,6 +6242,7 @@
     },
     {
       "name": "Tony Spurging",
+      "school": "Argyle",
       "plate": 12284,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5913,6 +6260,7 @@
     },
     {
       "name": "Braden Humphrey",
+      "school": "Argyle",
       "plate": 12010,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5930,6 +6278,7 @@
     },
     {
       "name": "Jack Severin",
+      "school": "Argyle",
       "plate": 12009,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5947,6 +6296,7 @@
     },
     {
       "name": "Luke Mackie",
+      "school": "Carson",
       "plate": 12317,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5964,6 +6314,7 @@
     },
     {
       "name": "Garrett McLean",
+      "school": "GW Graham",
       "plate": 12327,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5981,6 +6332,7 @@
     },
     {
       "name": "Noah Skulbru",
+      "school": "Argyle",
       "plate": 12280,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -5998,6 +6350,7 @@
     },
     {
       "name": "Kai Bienias-Sjoblom",
+      "school": "Brockton",
       "plate": 12287,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6015,6 +6368,7 @@
     },
     {
       "name": "Jacob Robichaud",
+      "school": "Pemberton",
       "plate": 12367,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6032,6 +6386,7 @@
     },
     {
       "name": "Cove Pedrini",
+      "school": "Pemberton",
       "plate": 12365,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6049,6 +6404,7 @@
     },
     {
       "name": "Kai Klimek",
+      "school": "Mulgrave",
       "plate": 12356,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6066,6 +6422,7 @@
     },
     {
       "name": "India Becker",
+      "school": "Pemberton",
       "plate": 12358,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6083,6 +6440,7 @@
     },
     {
       "name": "Keyaan Burgener",
+      "school": "Mulgrave",
       "plate": 12355,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6100,6 +6458,7 @@
     },
     {
       "name": "Isaac Derksen",
+      "school": "St. Georges",
       "plate": 12385,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6117,6 +6476,7 @@
     },
     {
       "name": "Erik Jahn  ",
+      "school": "Pemberton",
       "plate": 12375,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6134,6 +6494,7 @@
     },
     {
       "name": "Silas McIntosh",
+      "school": "Seycove",
       "plate": 12382,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6151,6 +6512,7 @@
     },
     {
       "name": "Iain Scheffer",
+      "school": "Seycove",
       "plate": 12383,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6168,6 +6530,7 @@
     },
     {
       "name": "Evan Spofforth",
+      "school": "Sutherland",
       "plate": 12395,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6185,6 +6548,7 @@
     },
     {
       "name": "Cole Paterson ",
+      "school": "Sutherland",
       "plate": 12393,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6202,6 +6566,7 @@
     },
     {
       "name": "Kayden Giraud",
+      "school": "Sutherland",
       "plate": 12394,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6219,6 +6584,7 @@
     },
     {
       "name": "Logan Tonini",
+      "school": "Sutherland",
       "plate": 12397,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6236,6 +6602,7 @@
     },
     {
       "name": "Jovan Ferdinands",
+      "school": "Whistler",
       "plate": 12001,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6253,6 +6620,7 @@
     },
     {
       "name": "Andre Moore",
+      "school": "Whistler",
       "plate": 12002,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6270,6 +6638,7 @@
     },
     {
       "name": "Jack Hague",
+      "school": "Whistler",
       "plate": 12005,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6289,6 +6658,7 @@
   "Sr Girls": [
     {
       "name": "Lacey Dennis",
+      "school": "Howe Sound",
       "plate": 1218,
       "R1 Place": 1,
       "R1 Pts": 100,
@@ -6306,6 +6676,7 @@
     },
     {
       "name": "Charlotte Gadbois Schuett",
+      "school": "Howe Sound",
       "plate": 1219,
       "R1 Place": 4,
       "R1 Pts": 85,
@@ -6323,6 +6694,7 @@
     },
     {
       "name": "Sabina Rossiello",
+      "school": "Burnaby Mtn",
       "plate": 1216,
       "R1 Place": 2,
       "R1 Pts": 95,
@@ -6340,6 +6712,7 @@
     },
     {
       "name": "Emily Wilson",
+      "school": "Pemberton",
       "plate": 1225,
       "R1 Place": 8,
       "R1 Pts": 65,
@@ -6357,6 +6730,7 @@
     },
     {
       "name": "Isla Inglis",
+      "school": "Pemberton",
       "plate": 1224,
       "R1 Place": 9,
       "R1 Pts": 60,
@@ -6374,6 +6748,7 @@
     },
     {
       "name": "Grace Cleland",
+      "school": "Pemberton",
       "plate": 1221,
       "R1 Place": 6,
       "R1 Pts": 75,
@@ -6391,6 +6766,7 @@
     },
     {
       "name": "Bridget Towns",
+      "school": "Argyle",
       "plate": 1214,
       "R1 Place": 5,
       "R1 Pts": 80,
@@ -6408,6 +6784,7 @@
     },
     {
       "name": "Claire Dickie ",
+      "school": "Carson",
       "plate": 1201,
       "R1 Place": 7,
       "R1 Pts": 70,
@@ -6425,6 +6802,7 @@
     },
     {
       "name": "Abbie Glavas",
+      "school": "Pemberton",
       "plate": 1222,
       "R1 Place": 10,
       "R1 Pts": 55,
@@ -6442,6 +6820,7 @@
     },
     {
       "name": "Sophie Hancock",
+      "school": "Pemberton",
       "plate": 1223,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6459,6 +6838,7 @@
     },
     {
       "name": "Zadie Waters",
+      "school": "Howe Sound",
       "plate": 1220,
       "R1 Place": 3,
       "R1 Pts": 90,
@@ -6476,6 +6856,7 @@
     },
     {
       "name": "Mhairi Smart",
+      "school": "Whistler",
       "plate": 1228,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6493,6 +6874,7 @@
     },
     {
       "name": "Teslin Hanson",
+      "school": "Argyle",
       "plate": 1282,
       "R1 Place": 11,
       "R1 Pts": 53,
@@ -6510,6 +6892,7 @@
     },
     {
       "name": "Maia Mulluns",
+      "school": "Argyle",
       "plate": 1215,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6527,6 +6910,7 @@
     },
     {
       "name": "Julia Runzer",
+      "school": "Handsworth",
       "plate": 1217,
       "R1 Place": 12,
       "R1 Pts": 51,
@@ -6544,6 +6928,7 @@
     },
     {
       "name": "Tash Allars",
+      "school": "Coast Mtn",
       "plate": 1203,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6561,6 +6946,7 @@
     },
     {
       "name": "Kayla Orth",
+      "school": "Sutherland",
       "plate": 1204,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6578,6 +6964,7 @@
     },
     {
       "name": "Magalie Mueller",
+      "school": "Whistler",
       "plate": 1226,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6595,6 +6982,7 @@
     },
     {
       "name": "Brooke Bessie",
+      "school": "Whistler",
       "plate": 1227,
       "R1 Place": "DNS",
       "R1 Pts": 0,
@@ -6612,6 +7000,7 @@
     },
     {
       "name": "Pippa Sturm",
+      "school": "Windsor",
       "plate": 1229,
       "R1 Place": "DNS",
       "R1 Pts": 0,

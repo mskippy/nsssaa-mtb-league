@@ -141,6 +141,7 @@ for division in df_individual['Division'].unique():
     for _, row in div_df.iterrows():
         rider = {
             "name": row.get("Student Name", ""),
+            "school": row.get("School", ""),
             "plate": row.get("Plate #", ""),
             "R1 Place": row.get("R1 Place", ""),
             "R1 Pts": row.get("R1 Pts", ""),
