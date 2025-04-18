@@ -1,5 +1,5 @@
 // race_results.js
-fetch('race_comparison.json')
+fetch('data/race_comparison.json')
   .then(response => response.json())
   .then(data => {
     const raceSelect = document.getElementById('race-select');
