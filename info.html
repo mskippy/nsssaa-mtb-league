@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>League Information</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <header>
+                <h1>NSSSAA Mountain Bike League</h1>
+                <nav>
+                  <nav class="main-nav">
+                    <ul>
+                      <li><a href="index.html" class="nav-link" id="nav-home">Home</a></li>
+                      <li><a href="info.html" class="nav-link" id="nav-info">Info</a></li>
+                      <li><a href="division_results.html" class="nav-link" id="nav-division">Division Results</a></li>
+                      <li><a href="school_results.html" class="nav-link" id="nav-school">School Results</a></li>
+                      <li><a href="team_results.html" class="nav-link" id="nav-team">Team Results</a></li>
+                      <li><a href="race_results.html" class="nav-link" id="nav-race">Race Results</a></li>
+                    </ul>
+                  </nav>
+                  
+                </nav>
+              </header>
+              
+        </header>
+
+        <main>
+          <h2>Race 3 Info - Alice Lake XC</h2>
+          <p><strong>Location:</strong> <a href="https://maps.app.goo.gl/ZzTsGcjt9FAKdTYA6">Alice Lake Park</a></p>
+          <p><strong>Registration:</strong>  Will be at the south end of the lake, by the floating dock area. </p>
+          <p><strong>Parking:</strong>  <a href="https://maps.app.goo.gl/NfQhCjQ9BtfVuKhKA">Floating Dock Picknic area</a> Please try to carpool to Alice Lake as well be mindful that there are no large buses allowed in this area. Smaller buses are fine, but large buses will need to park by the pump track / paddleboard rental area.</p>
+          <p><strong>Washrooms:</strong> Please use the available facilities to go to the washrooms. Anyone who doesn't, jepordizes our permit for future races.</p>
+          <p style="text-indent: 20px;"><strong><em>Do not use the facili-TREES, use the facilities!</em></strong></p>
+          <p><strong>Course Info:</strong> Route map will be updated soon. But this is what we know so far... details on direction and order to follow.</p>
+            <ul>
+              <li>Alice Lake Access -start</li>
+              <li>Cardrona</li>
+              <li>Rob's Corners</li>
+              <li>Miki's Magic Part 2</li>
+              <li>Cliff's Corners</li>
+              <li>Tracks from Hell</li>
+              <li>Edith Lake Access - finish</li>
+            </ul>
+            <p style="text-indent: 20px;"><strong>Race Notes</strong></p>
+              <ul>
+                <li>Riders will ride out from the registration area to the startline as a group, lead by a league representative. Racing will start on the dirt path</li>
+                <li>Finish line is at the end of Edith Lake Access road. This will enable teams to ride back up and pre-ride the Enduro course. Make sure you hand in your placement sticks BEFORE going on your preride.</li>
+              </ul>
+            <p style="text-indent: 20px;"><strong>Start times and Laps</strong></p>
+            <ul>
+              <li>3:30 pm - All Grade 9s (Juvenile) - one lap of the course</li>
+              <li>3:40 pm - All Grade 8s (Bantam) - one lap of the course</li>
+              <li>4:00 pm - All Grade 10/11/12s (Junior and Senior)</li>
+              <p> You will do an extra lap of the upper trails before heading back to the finish </p>
+            </ul>
+
+
+
+        </main>
+
+
+          <footer>
+            <p>&copy; 2025 NSSSAA Mountain Bike League</p>
+          </footer>
+        
+          <script>
+            const path = window.location.pathname;  // Get the current page's path
+          
+            if (path.includes("index")) {
+              document.getElementById("nav-home").classList.add("active");
+            } else if (path.includes("division_results")) {
+              document.getElementById("nav-division").classList.add("active");
+            } else if (path.includes("school_results")) {
+              document.getElementById("nav-school").classList.add("active");
+            } else if (path.includes("team_results")) {
+              document.getElementById("nav-team").classList.add("active");
+            } else if (path.includes("info")) {
+                document.getElementById("nav-info").classList.add("active");
+              }
+          </script>    
+    </body>
+</html>
