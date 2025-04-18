@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         riders.forEach((r) => {
           table += `<tr>
-            <td>${r.name}</td>
+            <td>${r.name} (${r.school})</td>
             <td>${r.plate}</td>
             <td>${formatRace(r["R1 Place"], r["R1 Pts"])}</td>
             <td>${formatRace(r["R2 Place"], r["R2 Pts"])}</td>
