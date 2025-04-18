@@ -30,7 +30,7 @@ fetch('data/race_comparison.json')
         section.appendChild(heading);
       
         const table = document.createElement('table');
-        table.classList.add("results-table");
+        table.classList.add("result-table");
       
         const headerRow = document.createElement('tr');
         const divisionKeys = Object.keys(divisions);
