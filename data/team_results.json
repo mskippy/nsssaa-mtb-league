@@ -1,6 +1,26 @@
 {
   "Sr Boys": [
     {
+      "School": "Howe Sound",
+      "Race1": 216.0,
+      "Race2": 265.0,
+      "Race3": 0.0,
+      "Race4": 0.0,
+      "Race5": 0.0,
+      "Race6": 0.0,
+      "Total": 481
+    },
+    {
+      "School": "Pemberton",
+      "Race1": 240.0,
+      "Race2": 175.0,
+      "Race3": 0.0,
+      "Race4": 0.0,
+      "Race5": 0.0,
+      "Race6": 0.0,
+      "Total": 415
+    },
+    {
       "School": "Handsworth",
       "Race1": 189.0,
       "Race2": 162.0,
@@ -11,24 +31,24 @@
       "Total": 351
     },
     {
-      "School": "Pemberton",
-      "Race1": 240.0,
-      "Race2": "",
+      "School": "Carson",
+      "Race1": 110.0,
+      "Race2": 175.0,
       "Race3": 0.0,
       "Race4": 0.0,
       "Race5": 0.0,
       "Race6": 0.0,
-      "Total": 240
+      "Total": 285
     },
     {
-      "School": "Howe Sound",
-      "Race1": 216.0,
-      "Race2": "",
+      "School": "Argyle",
+      "Race1": 170.0,
+      "Race2": 114.0,
       "Race3": 0.0,
       "Race4": 0.0,
       "Race5": 0.0,
       "Race6": 0.0,
-      "Total": 216
+      "Total": 284
     },
     {
       "School": "Whistler",
@@ -41,6 +61,16 @@
       "Total": 197
     },
     {
+      "School": "Seycove",
+      "Race1": 100.0,
+      "Race2": 96.0,
+      "Race3": 0.0,
+      "Race4": 0.0,
+      "Race5": 0.0,
+      "Race6": 0.0,
+      "Total": 196
+    },
+    {
       "School": "Sutherland",
       "Race1": 31.0,
       "Race2": 139.0,
@@ -51,64 +81,34 @@
       "Total": 170
     },
     {
-      "School": "Argyle",
-      "Race1": 170.0,
-      "Race2": "",
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 170
-    },
-    {
-      "School": "Carson",
-      "Race1": 110.0,
-      "Race2": "",
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 110
-    },
-    {
-      "School": "Seycove",
-      "Race1": 100.0,
-      "Race2": "",
-      "Race3": 0.0,
-      "Race4": 0.0,
-      "Race5": 0.0,
-      "Race6": 0.0,
-      "Total": 100
-    },
-    {
       "School": "Burnaby Mtn",
       "Race1": 59.0,
-      "Race2": "",
+      "Race2": 5.0,
       "Race3": 0.0,
       "Race4": 0.0,
       "Race5": 0.0,
       "Race6": 0.0,
-      "Total": 59
+      "Total": 64
     },
     {
       "School": "Mulgrave",
       "Race1": 30.0,
-      "Race2": "",
+      "Race2": 2.0,
       "Race3": 0.0,
       "Race4": 0.0,
       "Race5": 0.0,
       "Race6": 0.0,
-      "Total": 30
+      "Total": 32
     },
     {
       "School": "Brockton",
       "Race1": 18.0,
-      "Race2": "",
+      "Race2": 2.0,
       "Race3": 0.0,
       "Race4": 0.0,
       "Race5": 0.0,
       "Race6": 0.0,
-      "Total": 18
+      "Total": 20
     }
   ],
   "Jr Boys": [
