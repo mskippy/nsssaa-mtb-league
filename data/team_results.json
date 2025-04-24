@@ -178,11 +178,11 @@
       "School": "Pemberton",
       "Race1": 200.0,
       "Race2": 285.0,
-      "Race3": 220.0,
+      "Race3": 240.0,
       "Race4": "",
       "Race5": "",
       "Race6": "",
-      "Total": 705
+      "Total": 725
     },
     {
       "School": "Whistler",
@@ -312,11 +312,11 @@
       "School": "Pemberton",
       "Race1": 122.0,
       "Race2": 149.0,
-      "Race3": 125.0,
+      "Race3": 126.0,
       "Race4": "",
       "Race5": "",
       "Race6": "",
-      "Total": 396
+      "Total": 397
     },
     {
       "School": "Seycove",
@@ -352,11 +352,11 @@
       "School": "Chatelech",
       "Race1": "",
       "Race2": 73.0,
-      "Race3": 49.0,
+      "Race3": 48.0,
       "Race4": "",
       "Race5": "",
       "Race6": "",
-      "Total": 122
+      "Total": 121
     },
     {
       "School": "Mulgrave",
@@ -454,11 +454,11 @@
       "School": "Elphinstone",
       "Race1": "",
       "Race2": "",
-      "Race3": 153.0,
+      "Race3": 154.0,
       "Race4": "",
       "Race5": "",
       "Race6": "",
-      "Total": 153
+      "Total": 154
     }
   ]
 }

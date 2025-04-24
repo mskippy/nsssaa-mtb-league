@@ -49,7 +49,7 @@
       },
       {
         "name": "Pemberton",
-        "points": 705
+        "points": 725
       },
       {
         "name": "Whistler",
@@ -287,19 +287,19 @@
         "points": 265
       },
       {
-        "name": "Bridget Towns",
-        "school": "Argyle",
-        "points": 225
+        "name": "Grace Cleland",
+        "school": "Pemberton",
+        "points": 235
+      },
+      {
+        "name": "Emily Wilson",
+        "school": "Pemberton",
+        "points": 235
       },
       {
         "name": "Isla Inglis",
         "school": "Pemberton",
-        "points": 225
-      },
-      {
-        "name": "Sabina Rossiello",
-        "school": "Burnaby Mtn",
-        "points": 218
+        "points": 230
       }
     ]
   }
