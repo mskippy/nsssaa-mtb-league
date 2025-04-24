@@ -2255,24 +2255,6 @@
       "points": 73
     },
     {
-      "name": "Charlie Young",
-      "school": "West Van",
-      "plate": 10138,
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": 33,
-      "R2 Pts": 27,
-      "R3 Place": 20,
-      "R3 Pts": 40,
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "points": 67
-    },
-    {
       "name": "Hudson Scarlet",
       "school": "St. Georges",
       "plate": 10124,
@@ -2451,6 +2433,24 @@
       "R6 Place": "",
       "R6 Pts": "",
       "points": 28
+    },
+    {
+      "name": "Charlie Young",
+      "school": "West Van",
+      "plate": 10138,
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": 33,
+      "R2 Pts": 27,
+      "R3 Place": "DNS",
+      "R3 Pts": 0,
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "points": 27
     },
     {
       "name": "Chase Marchuck",

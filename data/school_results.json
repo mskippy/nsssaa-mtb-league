@@ -5024,25 +5024,6 @@
       "points": 75
     },
     {
-      "name": "Charlie Young",
-      "plate": 10138,
-      "division": "Jr Boys",
-      "R1 Place": "DNS",
-      "R1 Pts": 0,
-      "R2 Place": 33,
-      "R2 Pts": 27,
-      "R3 Place": 20,
-      "R3 Pts": 40,
-      "R4 Place": "",
-      "R4 Pts": "",
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 67,
-      "points": 67
-    },
-    {
       "name": "Oliver Radage ",
       "plate": 10136,
       "division": "Jr Boys",
@@ -5060,6 +5041,25 @@
       "R6 Pts": "",
       "Top 5": 47,
       "points": 47
+    },
+    {
+      "name": "Charlie Young",
+      "plate": 10138,
+      "division": "Jr Boys",
+      "R1 Place": "DNS",
+      "R1 Pts": 0,
+      "R2 Place": 33,
+      "R2 Pts": 27,
+      "R3 Place": "DNS",
+      "R3 Pts": 0,
+      "R4 Place": "",
+      "R4 Pts": "",
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 27,
+      "points": 27
     },
     {
       "name": "Nic Way",
