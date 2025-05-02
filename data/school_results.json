@@ -3741,6 +3741,25 @@
       "points": 178
     },
     {
+      "name": "Carter Ficham",
+      "plate": 12388,
+      "division": "Sr Boys",
+      "R1 Place": 52,
+      "R1 Pts": 8,
+      "R2 Place": 14,
+      "R2 Pts": 47,
+      "R3 Place": 27,
+      "R3 Pts": 33,
+      "R4 Place": 12,
+      "R4 Pts": 51,
+      "R5 Place": "",
+      "R5 Pts": "",
+      "R6 Place": "",
+      "R6 Pts": "",
+      "Top 5": 139,
+      "points": 139
+    },
+    {
       "name": "Sam Roy",
       "plate": 12396,
       "division": "Sr Boys",
@@ -3758,25 +3777,6 @@
       "R6 Pts": "",
       "Top 5": 123,
       "points": 123
-    },
-    {
-      "name": "Carter Ficham",
-      "plate": 12388,
-      "division": "Sr Boys",
-      "R1 Place": 52,
-      "R1 Pts": 8,
-      "R2 Place": 14,
-      "R2 Pts": 47,
-      "R3 Place": 27,
-      "R3 Pts": 33,
-      "R4 Place": "DNS",
-      "R4 Pts": 0,
-      "R5 Place": "",
-      "R5 Pts": "",
-      "R6 Place": "",
-      "R6 Pts": "",
-      "Top 5": 88,
-      "points": 88
     },
     {
       "name": "Johnny Barton",
@@ -6352,14 +6352,14 @@
       "R2 Pts": 1,
       "R3 Place": 45,
       "R3 Pts": 15,
-      "R4 Place": 12,
-      "R4 Pts": 51,
+      "R4 Place": "DNS",
+      "R4 Pts": 0,
       "R5 Place": "",
       "R5 Pts": "",
       "R6 Place": "",
       "R6 Pts": "",
-      "Top 5": 85,
-      "points": 85
+      "Top 5": 34,
+      "points": 34
     },
     {
       "name": "Harry Duess",
