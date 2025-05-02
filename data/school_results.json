@@ -1361,14 +1361,14 @@
       "R2 Pts": 65,
       "R3 Place": 8,
       "R3 Pts": 65,
-      "R4 Place": "DNS",
-      "R4 Pts": 0,
+      "R4 Place": 8,
+      "R4 Pts": 65,
       "R5 Place": "",
       "R5 Pts": "",
       "R6 Place": "",
       "R6 Pts": "",
-      "Top 5": 185,
-      "points": 185
+      "Top 5": 250,
+      "points": 250
     }
   ],
   "Argyle": [
@@ -7116,14 +7116,14 @@
       "R2 Pts": 85,
       "R3 Place": 2,
       "R3 Pts": 95,
-      "R4 Place": 9,
-      "R4 Pts": 60,
+      "R4 Place": "DNS",
+      "R4 Pts": 0,
       "R5 Place": "",
       "R5 Pts": "",
       "R6 Place": "",
       "R6 Pts": "",
-      "Top 5": 325,
-      "points": 325
+      "Top 5": 265,
+      "points": 265
     },
     {
       "name": "Zadie Waters",
@@ -7135,14 +7135,14 @@
       "R2 Pts": 0,
       "R3 Place": "DNS",
       "R3 Pts": 0,
-      "R4 Place": 8,
-      "R4 Pts": 65,
+      "R4 Place": 9,
+      "R4 Pts": 60,
       "R5 Place": "",
       "R5 Pts": "",
       "R6 Place": "",
       "R6 Pts": "",
-      "Top 5": 155,
-      "points": 155
+      "Top 5": 150,
+      "points": 150
     }
   ],
   "Burnaby Mtn": [

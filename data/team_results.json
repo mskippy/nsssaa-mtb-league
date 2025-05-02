@@ -175,16 +175,6 @@
   ],
   "Jr/Sr Girls": [
     {
-      "School": "Howe Sound",
-      "Race1": 275.0,
-      "Race2": 240.0,
-      "Race3": 290.0,
-      "Race4": 225.0,
-      "Race5": "",
-      "Race6": "",
-      "Total": 1030
-    },
-    {
       "School": "Pemberton",
       "Race1": 200.0,
       "Race2": 285.0,
@@ -193,6 +183,16 @@
       "Race5": "",
       "Race6": "",
       "Total": 975
+    },
+    {
+      "School": "Howe Sound",
+      "Race1": 275.0,
+      "Race2": 240.0,
+      "Race3": 290.0,
+      "Race4": "",
+      "Race5": "",
+      "Race6": "",
+      "Total": 805
     },
     {
       "School": "Whistler",

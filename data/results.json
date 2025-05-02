@@ -58,12 +58,12 @@
     ],
     "Jr/Sr Girls": [
       {
-        "name": "Howe Sound",
-        "points": 1030
-      },
-      {
         "name": "Pemberton",
         "points": 975
+      },
+      {
+        "name": "Howe Sound",
+        "points": 805
       },
       {
         "name": "Whistler",
@@ -282,11 +282,6 @@
         "points": 380
       },
       {
-        "name": "Charlotte Gadbois Schuett",
-        "school": "Howe Sound",
-        "points": 325
-      },
-      {
         "name": "Emily Wilson",
         "school": "Pemberton",
         "points": 320
@@ -300,6 +295,11 @@
         "name": "Grace Cleland",
         "school": "Pemberton",
         "points": 310
+      },
+      {
+        "name": "Isla Inglis",
+        "school": "Pemberton",
+        "points": 300
       }
     ]
   }
