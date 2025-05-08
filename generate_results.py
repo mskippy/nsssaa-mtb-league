@@ -137,6 +137,8 @@ for division in df_individual['Division'].unique():
     div_df = df_individual[df_individual['Division'] == division].copy()
     div_df = div_df.sort_values(by='Top 5', ascending=False).reset_index(drop=True)
 
+
+
     riders = []
     for _, row in div_df.iterrows():
         rider = {
