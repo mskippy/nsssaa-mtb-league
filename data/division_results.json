@@ -3195,6 +3195,24 @@
       "points": 261
     },
     {
+      "name": "Noah Cullingworth",
+      "school": "Argyle",
+      "plate": 9014,
+      "R1 Place": 9,
+      "R1 Pts": 60,
+      "R2 Place": 24,
+      "R2 Pts": 36,
+      "R3 Place": 8,
+      "R3 Pts": 65,
+      "R4 Place": 31,
+      "R4 Pts": 29,
+      "R5 Place": 24,
+      "R5 Pts": 36,
+      "R6 Place": "",
+      "R6 Pts": "",
+      "points": 226
+    },
+    {
       "name": "Jonah Petersen",
       "school": "Handsworth",
       "plate": 9047,
@@ -3267,24 +3285,6 @@
       "points": 205
     },
     {
-      "name": "Noah Cullingworth",
-      "school": "Argyle",
-      "plate": 9014,
-      "R1 Place": 9,
-      "R1 Pts": 60,
-      "R2 Place": 24,
-      "R2 Pts": 36,
-      "R3 Place": 8,
-      "R3 Pts": 65,
-      "R4 Place": "DQ",
-      "R4 Pts": 0,
-      "R5 Place": 24,
-      "R5 Pts": 36,
-      "R6 Place": "",
-      "R6 Pts": "",
-      "points": 197
-    },
-    {
       "name": "Logan Scarlett",
       "school": "Coast Mtn",
       "plate": 9030,
@@ -3348,31 +3348,13 @@
       "R2 Pts": 30,
       "R3 Place": 11,
       "R3 Pts": 53,
-      "R4 Place": 36,
-      "R4 Pts": 24,
+      "R4 Place": 37,
+      "R4 Pts": 23,
       "R5 Place": 35,
       "R5 Pts": 25,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 185
-    },
-    {
-      "name": "Laine Kauffman",
-      "school": "Pemberton",
-      "plate": 9057,
-      "R1 Place": 3,
-      "R1 Pts": 90,
-      "R2 Place": 25,
-      "R2 Pts": 35,
-      "R3 Place": 29,
-      "R3 Pts": 31,
-      "R4 Place": 39,
-      "R4 Pts": 21,
-      "R5 Place": "DNS",
-      "R5 Pts": 0,
-      "R6 Place": "",
-      "R6 Pts": "",
-      "points": 177
+      "points": 184
     },
     {
       "name": "Owen McDonald",
@@ -3388,6 +3370,24 @@
       "R4 Pts": 33,
       "R5 Place": 32,
       "R5 Pts": 28,
+      "R6 Place": "",
+      "R6 Pts": "",
+      "points": 176
+    },
+    {
+      "name": "Laine Kauffman",
+      "school": "Pemberton",
+      "plate": 9057,
+      "R1 Place": 3,
+      "R1 Pts": 90,
+      "R2 Place": 25,
+      "R2 Pts": 35,
+      "R3 Place": 29,
+      "R3 Pts": 31,
+      "R4 Place": 40,
+      "R4 Pts": 20,
+      "R5 Place": "DNS",
+      "R5 Pts": 0,
       "R6 Place": "",
       "R6 Pts": "",
       "points": 176
@@ -3420,13 +3420,13 @@
       "R2 Pts": 33,
       "R3 Place": 30,
       "R3 Pts": 30,
-      "R4 Place": 31,
-      "R4 Pts": 29,
+      "R4 Place": 32,
+      "R4 Pts": 28,
       "R5 Place": 31,
       "R5 Pts": 29,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 162
+      "points": 161
     },
     {
       "name": "Jacob Chowdury",
@@ -3483,24 +3483,6 @@
       "points": 153
     },
     {
-      "name": "Connor Kimmins",
-      "school": "Collingwood",
-      "plate": 9032,
-      "R1 Place": 30,
-      "R1 Pts": 30,
-      "R2 Place": 31,
-      "R2 Pts": 29,
-      "R3 Place": 40,
-      "R3 Pts": 20,
-      "R4 Place": 32,
-      "R4 Pts": 28,
-      "R5 Place": 27,
-      "R5 Pts": 33,
-      "R6 Place": "",
-      "R6 Pts": "",
-      "points": 140
-    },
-    {
       "name": "Caius von Raven",
       "school": "Whistler",
       "plate": 9070,
@@ -3519,6 +3501,24 @@
       "points": 139
     },
     {
+      "name": "Connor Kimmins",
+      "school": "Collingwood",
+      "plate": 9032,
+      "R1 Place": 30,
+      "R1 Pts": 30,
+      "R2 Place": 31,
+      "R2 Pts": 29,
+      "R3 Place": 40,
+      "R3 Pts": 20,
+      "R4 Place": 33,
+      "R4 Pts": 27,
+      "R5 Place": 27,
+      "R5 Pts": 33,
+      "R6 Place": "",
+      "R6 Pts": "",
+      "points": 139
+    },
+    {
       "name": "Ethan Isberg",
       "school": "Rockridge",
       "plate": 9058,
@@ -3528,13 +3528,13 @@
       "R2 Pts": 27,
       "R3 Place": 32,
       "R3 Pts": 28,
-      "R4 Place": 35,
-      "R4 Pts": 25,
+      "R4 Place": 36,
+      "R4 Pts": 24,
       "R5 Place": 30,
       "R5 Pts": 30,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 138
+      "points": 137
     },
     {
       "name": "Massimo Rossiello",
@@ -3546,13 +3546,13 @@
       "R2 Pts": 19,
       "R3 Place": 31,
       "R3 Pts": 29,
-      "R4 Place": 38,
-      "R4 Pts": 22,
+      "R4 Place": 39,
+      "R4 Pts": 21,
       "R5 Place": 37,
       "R5 Pts": 23,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 130
+      "points": 129
     },
     {
       "name": "Will Gore",
@@ -3564,13 +3564,13 @@
       "R2 Pts": 0,
       "R3 Place": "DNS",
       "R3 Pts": 0,
-      "R4 Place": 40,
-      "R4 Pts": 20,
+      "R4 Place": 41,
+      "R4 Pts": 19,
       "R5 Place": 28,
       "R5 Pts": 32,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 127
+      "points": 126
     },
     {
       "name": "Lucas Allen",
@@ -3672,13 +3672,13 @@
       "R2 Pts": 45,
       "R3 Place": "DNS",
       "R3 Pts": 0,
-      "R4 Place": 42,
-      "R4 Pts": 18,
+      "R4 Place": 43,
+      "R4 Pts": 17,
       "R5 Place": 12,
       "R5 Pts": 51,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 114
+      "points": 113
     },
     {
       "name": "Jeremy Smerychynski",
@@ -3690,13 +3690,13 @@
       "R2 Pts": 14,
       "R3 Place": 38,
       "R3 Pts": 22,
-      "R4 Place": 33,
-      "R4 Pts": 27,
+      "R4 Place": 34,
+      "R4 Pts": 26,
       "R5 Place": 36,
       "R5 Pts": 24,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 113
+      "points": 112
     },
     {
       "name": "Deniz Unal",
@@ -3798,13 +3798,13 @@
       "R2 Pts": 17,
       "R3 Place": 36,
       "R3 Pts": 24,
-      "R4 Place": 43,
-      "R4 Pts": 17,
+      "R4 Place": 44,
+      "R4 Pts": 16,
       "R5 Place": 46,
       "R5 Pts": 14,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 97
+      "points": 96
     },
     {
       "name": "Callum Brown",
@@ -3834,13 +3834,13 @@
       "R2 Pts": 15,
       "R3 Place": 49,
       "R3 Pts": 11,
-      "R4 Place": 34,
-      "R4 Pts": 26,
+      "R4 Place": 35,
+      "R4 Pts": 25,
       "R5 Place": 24,
       "R5 Pts": 36,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 88
+      "points": 87
     },
     {
       "name": "James Harris",
@@ -4032,13 +4032,13 @@
       "R2 Pts": 11,
       "R3 Place": 48,
       "R3 Pts": 12,
-      "R4 Place": 44,
-      "R4 Pts": 16,
+      "R4 Place": 45,
+      "R4 Pts": 15,
       "R5 Place": "DNS",
       "R5 Pts": 0,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 39
+      "points": 38
     },
     {
       "name": "Aiden Cooke",
@@ -4086,13 +4086,13 @@
       "R2 Pts": 13,
       "R3 Place": "DNS",
       "R3 Pts": 0,
-      "R4 Place": 41,
-      "R4 Pts": 19,
+      "R4 Place": 42,
+      "R4 Pts": 18,
       "R5 Place": "DNS",
       "R5 Pts": 0,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 32
+      "points": 31
     },
     {
       "name": "Toby Chan",
@@ -4104,13 +4104,13 @@
       "R2 Pts": 0,
       "R3 Place": "DNS",
       "R3 Pts": 0,
-      "R4 Place": 45,
-      "R4 Pts": 15,
+      "R4 Place": 46,
+      "R4 Pts": 14,
       "R5 Place": 47,
       "R5 Pts": 13,
       "R6 Place": "",
       "R6 Pts": "",
-      "points": 29
+      "points": 28
     },
     {
       "name": "Caine Uchida",

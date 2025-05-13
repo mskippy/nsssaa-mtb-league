@@ -299,6 +299,16 @@
       "Total": 984
     },
     {
+      "School": "Argyle",
+      "Race1": 181.0,
+      "Race2": 199.0,
+      "Race3": 204.0,
+      "Race4": 173.0,
+      "Race5": 189.0,
+      "Race6": "",
+      "Total": 946
+    },
+    {
       "School": "Handsworth",
       "Race1": 162.0,
       "Race2": 173.0,
@@ -313,20 +323,10 @@
       "Race1": 122.0,
       "Race2": 149.0,
       "Race3": 126.0,
-      "Race4": 146.0,
+      "Race4": 145.0,
       "Race5": 234.0,
       "Race6": "",
-      "Total": 777
-    },
-    {
-      "School": "Argyle",
-      "Race1": 181.0,
-      "Race2": 199.0,
-      "Race3": 204.0,
-      "Race4": "",
-      "Race5": 189.0,
-      "Race6": "",
-      "Total": 773
+      "Total": 776
     },
     {
       "School": "Seycove",
@@ -363,10 +363,10 @@
       "Race1": "",
       "Race2": "",
       "Race3": "",
-      "Race4": 147.0,
+      "Race4": 146.0,
       "Race5": 127.0,
       "Race6": "",
-      "Total": 274
+      "Total": 273
     },
     {
       "School": "Chatelech",
