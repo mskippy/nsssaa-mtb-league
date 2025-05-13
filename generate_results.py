@@ -1,13 +1,15 @@
 import openpyxl
 import pandas as pd
 import json
+import sys
+
+# Ensure UTF-8 encoding for console output
+sys.stdout.reconfigure(encoding='utf-8')
 
 # === CONFIG ===
 EXCEL_FILE = "Results 2025 MASTER.xlsx"
 TEAM_RESULTS_FILE = "data/team_results.json"  # Export path for team results
 
-# === LOAD SHEETS ===
-print("Loading data from:", EXCEL_FILE)
 
 # Load TeamPoints sheet with specific columns A to I (0 to 8) and use the first 101 rows (A1:I101)
 df_teams = pd.read_excel(EXCEL_FILE, sheet_name="TeamPoints", header=0, usecols="A:I", nrows=101)
